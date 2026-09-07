@@ -1,0 +1,237 @@
+{
+  "name": "Green (Sirun) Wang",
+  "shortName": "Green Wang",
+  "alternateNames": [
+    "Sirun Wang",
+    "Green Wang"
+  ],
+  "institution": "University of California, Berkeley",
+  "role": "Undergraduate",
+  "studies": [
+    "Political Economy",
+    "Applied Mathematics"
+  ],
+  "email": "greenw@berkeley.edu",
+  "updated": "2026-09-07",
+  "bio": "I am an undergraduate at UC Berkeley studying political economy and applied mathematics. I am interested in how institutions and information shape what people value and believe, particularly how preferences and beliefs develop together in different institutional settings.",
+  "approach": "My current questions concern the formation of preferences and beliefs. I hope to use formal models to explore their interaction, starting from historically specified conditions and examining how different paths may unfold. I am also interested in how ways of measuring and comparing value affect both behavior and our interpretation of historical evidence.",
+  "interests": [
+    "Political economy of institutions",
+    "Preference and belief formation",
+    "Formal theory"
+  ],
+  "researchLead": "How do institutions shape what people value and believe?",
+  "currentFocus": "How preferences and beliefs develop within institutions.",
+  "contactTopics": "preference formation, institutions, and formal political economy",
+  "bioZh": "我目前是加州大学伯克利分校的本科生，学习政治经济与应用数学。我对制度与信息如何影响人们的评价和信念感兴趣，尤其希望理解偏好与信念如何在不同制度环境中共同形成。",
+  "approachZh": "我目前关注偏好与信念的形成，希望学习用形式模型研究两者的相互作用，从具体历史条件出发，考察可能出现的不同演化路径。我也关心衡量和比较价值的方式如何影响行为，以及我们对历史材料的理解。",
+  "workingHypothesis": {
+    "title": "Monetary valuation and preferences",
+    "status": "Exploratory interest; not a finding or a confirmed course-paper topic",
+    "question": "Can expressing different forms of value in monetary terms change what people come to value?",
+    "note": "I would like to explore this question in the context of capitalist institutions. The relationship between monetary valuation and preference formation is a starting point for further study."
+  },
+  "ongoingProjects": [
+    {
+      "id": "formal-theory",
+      "title": "Formal theory",
+      "titleStatus": "Area label; paper title not yet determined",
+      "type": "PhD-level course paper",
+      "period": "Fall 2026",
+      "status": "Planned; not yet started",
+      "topic": null,
+      "mentor": null,
+      "publicationStatus": "Not a publication",
+      "availability": "Coming soon; paper not yet started and no abstract or manuscript available.",
+      "courseCode": "POLSCI 232B",
+      "courseTitle": "Formal Models of Political Science",
+      "description": "A planned PhD-level course paper in formal theory. The topic and mentor have not yet been determined.",
+      "area": "Formal theory"
+    },
+    {
+      "id": "capitalism-institutions",
+      "title": "Economic institutions of capitalism",
+      "titleStatus": "Area label; paper title not yet determined",
+      "type": "PhD-level course paper",
+      "period": "Fall 2026",
+      "status": "Planned; not yet started",
+      "topic": null,
+      "mentor": null,
+      "publicationStatus": "Not a publication",
+      "availability": "Coming soon; paper not yet started and no abstract or manuscript available.",
+      "courseCode": "PHDBA 279PD",
+      "courseTitle": "The Economic Institutions of Capitalism in Historical Perspective",
+      "description": "A planned PhD-level course paper on the economic institutions of capitalism. The topic and mentor have not yet been determined.",
+      "area": "Institutions of capitalism"
+    }
+  ],
+  "training": {
+    "summary": "My coursework includes quantitative microeconomics, probability, and mathematics, alongside political economy, world history, and Chinese literary history. This fall, I am taking courses in formal models of political science and the economic institutions of capitalism, with course papers planned in both.",
+    "completed": [
+      {
+        "code": "ECON 101A",
+        "title": "Microeconomics (Quantitative)",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "STAT 134",
+        "title": "Concepts of Probability",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "MATH 53",
+        "title": "Multivariable Calculus",
+        "term": "Fall 2025"
+      },
+      {
+        "code": "MATH 55",
+        "title": "Discrete Mathematics",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "MATH 54",
+        "title": "Linear Algebra and Differential Equations",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "POLECON 100",
+        "title": "Classical Theories of Political Economy",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "CHINESE 230",
+        "title": "Seminar in Chinese Literary History",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "GLOBAL 45",
+        "title": "Survey of World History",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "SOCIOL 127",
+        "title": "Development and Globalization",
+        "term": "Spring 2026"
+      }
+    ],
+    "inProgress": [
+      {
+        "code": "POLSCI 232B",
+        "title": "Formal Models of Political Science",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "PHDBA 279PD",
+        "title": "The Economic Institutions of Capitalism in Historical Perspective",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "ECON 141",
+        "title": "Econometrics (Quantitative)",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "MATH 104",
+        "title": "Introduction to Analysis",
+        "term": "Fall 2026"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "title": "Institutions & preferences",
+      "question": "How might different institutional and informational environments shape the preferences people develop?",
+      "context": "Political economy · Preference formation"
+    },
+    {
+      "title": "Beliefs & preferences",
+      "question": "How might preferences and beliefs influence one another over time, starting from particular historical conditions?",
+      "context": "Feedback · Formal theory"
+    },
+    {
+      "title": "Institutions & valuation",
+      "question": "Can expressing different forms of value in monetary terms influence preferences?",
+      "context": "Valuation · Capitalist institutions"
+    }
+  ],
+  "projects": [
+    {
+      "id": "bangladesh-1991",
+      "title": "The 1991 Neoliberal Shift in Bangladesh",
+      "shortTitle": "Institutional change in Bangladesh",
+      "type": "Course research",
+      "period": "Spring 2026",
+      "startDate": "2026-01",
+      "endDate": "2026-05",
+      "publicationStatus": "Not listed as a publication",
+      "availability": "Project summary only; manuscript not included in this edition.",
+      "area": "Development & political economy",
+      "description": "A course research project examining the drivers of Bangladesh’s transition toward market-oriented policy and the role of party-state institutions.",
+      "question": "What drove Bangladesh’s shift toward market-oriented policy in 1991?",
+      "context": "Development and Globalization, UC Berkeley",
+      "instructor": "Edwin Lin",
+      "scope": "Policy transition and party-state institutions in Bangladesh.",
+      "sourceNote": "This summary is based on the project entry in my research CV. The full paper and its findings are not presented here.",
+      "selectionStatus": "Earlier coursework; not representative of current research interests"
+    },
+    {
+      "id": "manila-trade",
+      "title": "Chinese–Spanish Trade in Manila, 1589–1603",
+      "shortTitle": "Trade and exchange in early-modern Manila",
+      "type": "Course research",
+      "period": "Spring 2026",
+      "startDate": "2026-01",
+      "endDate": "2026-05",
+      "publicationStatus": "Not listed as a publication",
+      "availability": "Project summary only; manuscript not included in this edition.",
+      "area": "Economic history",
+      "description": "An economic-history review of Chinese–Spanish maritime trade in Manila, approaching early-modern exchange in Asia from non-Eurocentric perspectives.",
+      "question": "How can Chinese–Spanish trade in Manila be understood from non-Eurocentric perspectives?",
+      "context": "Survey of World History, UC Berkeley",
+      "instructor": "Devin Leigh",
+      "scope": "Maritime trade and exchange in Asia, focusing on Manila between 1589 and 1603.",
+      "sourceNote": "This summary is based on the project entry in my research CV. The full paper and its findings are not presented here.",
+      "selectionStatus": "Earlier coursework; not representative of current research interests"
+    }
+  ],
+  "broaderInterests": "Alongside my coursework, I keep notes on literature, philosophy, and questions of interpretation.",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/bear1271"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/green-wang-665307319"
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Datong Society of China Studies",
+      "role": "President",
+      "startDate": "2026-06",
+      "endDate": null,
+      "period": "June 2026 – present",
+      "url": "https://callink.berkeley.edu/organization/datongsocietyofchinastudies",
+      "detail": "Previously a member, September 2025 – June 2026."
+    },
+    {
+      "organization": "Berkeley Political Economy Journal",
+      "role": "Editorial Board, Lead of Academic Affairs",
+      "startDate": "2026-03",
+      "endDate": null,
+      "period": "March 2026 – present",
+      "url": "https://pesaberkeley.weebly.com/berkeley-political-economy-journal.html",
+      "detail": "Review of undergraduate research submissions and their argumentation, evidence, and methods."
+    },
+    {
+      "organization": "Berkeley Undergraduate Journal",
+      "role": "Editor",
+      "startDate": "2025-08",
+      "endDate": "2026-06",
+      "period": "August 2025 – June 2026",
+      "url": "https://buj.studentorg.berkeley.edu/",
+      "detail": "Peer review and substantive editing of undergraduate research."
+    }
+  ]
+}
