@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Green Wang — Personal Website
 
 Personal academic website for Green (Sirun) Wang, an undergraduate at UC Berkeley studying political economy and applied mathematics.
@@ -30,3 +31,7 @@ Edit `content/profile.json`, regenerate the CV, build, and run the content check
 ## Agent-readable record
 
 The site publishes full-text HTML and equivalent Markdown, plus `/profile.json`, `/research.json`, and `/llms.txt`. These files describe public content only. `llms.txt` is a reading guide, not an access-control mechanism.
+=======
+# green-wang-site
+Personal academic website for Green Wang
+>>>>>>> 50c36709313c5224aac6d4bc51c6a59d635ed639
