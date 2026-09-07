@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-09-07",
+  "name": "Green (Sirun) Wang",
+  "alternateNames": [
+    "Sirun Wang",
+    "Green Wang"
+  ],
+  "role": "Undergraduate",
+  "institution": "University of California, Berkeley",
+  "studies": [
+    "Political Economy",
+    "Applied Mathematics"
+  ],
+  "bio": "I am an undergraduate at UC Berkeley studying political economy and applied mathematics. I am interested in how institutions and information shape what people value and believe, particularly how preferences and beliefs develop together in different institutional settings.",
+  "interests": [
+    "Political economy of institutions",
+    "Preference and belief formation",
+    "Formal theory"
+  ],
+  "training": {
+    "summary": "My coursework includes quantitative microeconomics, probability, and mathematics, alongside political economy, world history, and Chinese literary history. This fall, I am taking courses in formal models of political science and the economic institutions of capitalism, with course papers planned in both.",
+    "completed": [
+      {
+        "code": "ECON 101A",
+        "title": "Microeconomics (Quantitative)",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "STAT 134",
+        "title": "Concepts of Probability",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "MATH 53",
+        "title": "Multivariable Calculus",
+        "term": "Fall 2025"
+      },
+      {
+        "code": "MATH 55",
+        "title": "Discrete Mathematics",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "MATH 54",
+        "title": "Linear Algebra and Differential Equations",
+        "term": "Summer 2026"
+      },
+      {
+        "code": "POLECON 100",
+        "title": "Classical Theories of Political Economy",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "CHINESE 230",
+        "title": "Seminar in Chinese Literary History",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "GLOBAL 45",
+        "title": "Survey of World History",
+        "term": "Spring 2026"
+      },
+      {
+        "code": "SOCIOL 127",
+        "title": "Development and Globalization",
+        "term": "Spring 2026"
+      }
+    ],
+    "inProgress": [
+      {
+        "code": "POLSCI 232B",
+        "title": "Formal Models of Political Science",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "PHDBA 279PD",
+        "title": "The Economic Institutions of Capitalism in Historical Perspective",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "ECON 141",
+        "title": "Econometrics (Quantitative)",
+        "term": "Fall 2026"
+      },
+      {
+        "code": "MATH 104",
+        "title": "Introduction to Analysis",
+        "term": "Fall 2026"
+      }
+    ]
+  },
+  "exploratoryQuestion": {
+    "title": "Monetary valuation and preferences",
+    "status": "Exploratory interest; not a finding or a confirmed course-paper topic",
+    "question": "Can expressing different forms of value in monetary terms change what people come to value?",
+    "note": "I would like to explore this question in the context of capitalist institutions. The relationship between monetary valuation and preference formation is a starting point for further study."
+  },
+  "email": "greenw@berkeley.edu",
+  "url": "http://127.0.0.1:4173/",
+  "cv": "http://127.0.0.1:4173/cv.pdf",
+  "contentNote": "Studies does not specify formal degree declaration or graduation date. Update date refers to this site edition."
+}

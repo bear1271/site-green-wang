@@ -1,37 +1,33 @@
-<<<<<<< HEAD
 # Green Wang — Personal Website
 
-Personal academic website for Green (Sirun) Wang, an undergraduate at UC Berkeley studying political economy and applied mathematics.
+Public source for Green (Sirun) Wang’s personal academic website.
 
-## Local preview
+The site is a static GitHub Pages website. The generated `index.html`, page routes, styles, public records, CV PDF, and other assets are kept in the repository root so GitHub Pages can serve the site directly.
+
+## Build and check
 
 ```powershell
 python make_cv.py
 node build.mjs
 node check.mjs
+```
+
+For a local preview:
+
+```powershell
 node serve.mjs
 ```
 
-Open http://127.0.0.1:4173/. The server exposes only the generated `dist/` directory.
+Then open <http://127.0.0.1:4173/>.
 
-## Content model
+## Content
 
-- `content/profile.json` is the single public content source.
-- `build.mjs` generates static HTML, Markdown equivalents, JSON records, `llms.txt`, `sitemap.xml`, and `robots.txt`.
-- `make_cv.py` creates the public PDF CV.
-- `public/style.css` contains the site-specific styles.
-- `dist/` is generated and ignored.
+- `content/profile.json` is the source for the public profile and research content.
+- `build.mjs` generates the static HTML, Markdown equivalents, JSON records, `llms.txt`, sitemap, robots file, and root-level GitHub Pages files.
+- `make_cv.py` creates the public CV PDF.
+- `public/style.css` contains the site styles.
+- `dist/` is a local build directory and is not required by GitHub Pages.
 
-Research status is intentional: the two Fall 2026 PhD-level course papers are planned and in topic development. Their topics and mentors are not yet determined; their abstracts are coming soon. Earlier course research is labeled as coursework and is not presented as publication.
+The two Fall 2026 PhD-level course papers are planned and still in topic development. Their topics and mentors are not yet determined; abstracts are coming soon. Earlier research is labeled as coursework and is not presented as publication.
 
-## Updating
-
-Edit `content/profile.json`, regenerate the CV, build, and run the content checks. Keep private working notes and source documents outside this repository. Do not add the internal review notes from the original template project.
-
-## Agent-readable record
-
-The site publishes full-text HTML and equivalent Markdown, plus `/profile.json`, `/research.json`, and `/llms.txt`. These files describe public content only. `llms.txt` is a reading guide, not an access-control mechanism.
-=======
-# green-wang-site
-Personal academic website for Green Wang
->>>>>>> 50c36709313c5224aac6d4bc51c6a59d635ed639
+Only public website content belongs in this repository. Do not add private CV sources, application records, internal notes, or personal identifiers.

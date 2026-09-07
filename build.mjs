@@ -239,4 +239,6 @@ await save(
     '<div class="page-head"><p class="eyebrow">404</p><h1>Page not found.</h1><p class="lead">The page may have moved.</p><a href="/">Return home →</a></div>'
   )
 );
+// GitHub Pages serves the repository root, so mirror the generated site there.
+await cp(out, root, { recursive: true, force: true });
 console.log(`Built ${pages.length} pages, Markdown equivalents, profile/research JSON and discovery files in ${out}`);

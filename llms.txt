@@ -1,0 +1,26 @@
+# Green (Sirun) Wang
+
+> UC Berkeley undergraduate studying political economy and applied mathematics.
+
+I am an undergraduate at UC Berkeley studying political economy and applied mathematics. I am interested in how institutions and information shape what people value and believe, particularly how preferences and beliefs develop together in different institutional settings.
+
+Two PhD-level course papers are in topic development; topics and mentors are not yet determined and abstracts are coming soon. Two earlier course projects have summaries available. None is listed as a publication. Notes contains open questions. Content updated 2026-09-07; this is an edition date.
+
+## Profile
+- [About and CV](http://127.0.0.1:4173/about/index.md): Biography, education, selected course work and contact.
+- [Structured profile](http://127.0.0.1:4173/profile.json): Public identity and interests.
+
+## In progress
+- [Formal theory](http://127.0.0.1:4173/research/formal-theory/index.md): PhD-level course paper, topic development; abstract coming soon.
+- [Economic institutions of capitalism](http://127.0.0.1:4173/research/capitalism-institutions/index.md): PhD-level course paper, topic development; abstract coming soon.
+
+## Previous course research
+- [The 1991 Neoliberal Shift in Bangladesh](http://127.0.0.1:4173/research/bangladesh-1991/index.md): Course research, Spring 2026; summary only.
+- [Chinese–Spanish Trade in Manila, 1589–1603](http://127.0.0.1:4173/research/manila-trade/index.md): Course research, Spring 2026; summary only.
+- [Research metadata](http://127.0.0.1:4173/research.json): Project types, dates and availability.
+
+## Notes
+- [Open questions](http://127.0.0.1:4173/notes/index.md): Questions guiding reading, not research findings.
+
+## About this site
+- [Agent guide](http://127.0.0.1:4173/for-agents/index.md): Reading conventions and scope.
