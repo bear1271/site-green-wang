@@ -2,7 +2,7 @@ import http from "node:http";
 import { readFile, stat, realpath } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-const root = await realpath(path.join(path.dirname(fileURLToPath(import.meta.url)), "dist"));
+const root = await realpath(path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "dist"));
 const port = Number(process.env.PORT || 4173);
 const types = {
   ".html": "text/html; charset=utf-8",

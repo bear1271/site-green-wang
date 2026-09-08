@@ -7,7 +7,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable, PageBreak, KeepTogether
 
-root = Path(__file__).resolve().parent
+root = Path(__file__).resolve().parent.parent
 p = json.loads((root / 'content/profile.json').read_text(encoding='utf-8'))
 target = root / 'public/cv.pdf'
 green = colors.HexColor('#284e40')

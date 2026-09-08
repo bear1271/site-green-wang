@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readFile, readdir, stat } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
-const root = path.dirname(fileURLToPath(import.meta.url));
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const out = path.join(root, "dist");
 const basePath = (process.env.SITE_BASE || "").replace(/\/$/, "");
 const source = JSON.parse(await readFile(path.join(root, "content/profile.json"), "utf8"));

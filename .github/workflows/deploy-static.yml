@@ -28,12 +28,12 @@ jobs:
         run: python -m pip install --disable-pip-version-check reportlab
       - name: Build site
         env:
-          SITE_ORIGIN: https://bear1271.github.io
-          SITE_BASE: /green-wang-site
+          SITE_ORIGIN: https://sirunwang.com
+          SITE_BASE: /
         run: |
-          python make_cv.py
-          node build.mjs
-          node check.mjs
+          python scripts/make_cv.py
+          npm run build
+          npm run check
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
