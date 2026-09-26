@@ -12,19 +12,19 @@
     "Applied Mathematics"
   ],
   "email": "greenw@berkeley.edu",
-  "updated": "2026-09-07",
-  "bio": "I am an undergraduate at UC Berkeley studying political economy and applied mathematics. I am interested in how institutions and information shape what people value and believe, particularly how preferences and beliefs develop together in different institutional settings.",
-  "approach": "My current questions concern the formation of preferences and beliefs. I hope to use formal models to explore their interaction, starting from historically specified conditions and examining how different paths may unfold. I am also interested in how ways of measuring and comparing value affect both behavior and our interpretation of historical evidence.",
+  "updated": "2026-09-26",
+  "bio": "I am an undergraduate at UC Berkeley studying political economy and applied mathematics. I study how institutions organize collective production and shape how people understand the sources of its success.",
+  "approach": "My current work explores two related questions: how institutions develop productive capacity, and how they shape people's interpretations of that capacity. I am especially interested in how people attribute contributions, judge whether a leader or organization is replaceable, and form beliefs about alternatives they cannot directly observe. I am learning to use formal models to make these mechanisms precise, while taking historical settings and the limits of each representation seriously. How institutions reshape people's standards of value remains a longer-term question.",
   "interests": [
     "Political economy of institutions",
-    "Preference and belief formation",
-    "Formal theory"
+    "Productive and interpretive capacity",
+    "Belief formation and formal theory"
   ],
-  "researchLead": "How do institutions shape what people value and believe?",
-  "currentFocus": "How preferences and beliefs develop within institutions.",
-  "contactTopics": "preference formation, institutions, and formal political economy",
-  "bioZh": "我目前是加州大学伯克利分校的本科生，学习政治经济与应用数学。我对制度与信息如何影响人们的评价和信念感兴趣，尤其希望理解偏好与信念如何在不同制度环境中共同形成。",
-  "approachZh": "我目前关注偏好与信念的形成，希望学习用形式模型研究两者的相互作用，从具体历史条件出发，考察可能出现的不同演化路径。我也关心衡量和比较价值的方式如何影响行为，以及我们对历史材料的理解。",
+  "researchLead": "How do institutions build productive capacity and shape how people understand it?",
+  "currentFocus": "Productive capacity, interpretive capacity, and beliefs about institutional alternatives.",
+  "contactTopics": "institutions, belief formation, and formal political economy",
+  "bioZh": "加州大学伯克利分校本科生，主修政治经济与应用数学。关注制度如何组织共同生产，以及人们如何理解组织成果的来源。",
+  "approachZh": "我围绕两个相关问题展开工作：制度如何形成生产能力，以及制度如何影响人们对这种能力的解释。\n\n我想弄清的是：人们如何归因不同个体的贡献；如何判断一位领导者、一个组织是否可被替代；以及，当替代方案无从直接观察时，信念从何而来。\n\n我用形式模型厘清机制，而将历史情境与模型表述的边界视为同样严肃的约束。\n\n再退一步，我想问的是：制度何时改变人们的价值尺度。",
   "workingHypothesis": {
     "title": "Monetary valuation and preferences",
     "status": "Exploratory interest; not a finding or a confirmed course-paper topic",
@@ -139,19 +139,19 @@
   },
   "questions": [
     {
-      "title": "Institutions & preferences",
-      "question": "How might different institutional and informational environments shape the preferences people develop?",
-      "context": "Political economy · Preference formation"
+      "title": "Productive capacity",
+      "question": "How do institutions combine individual skills and resources into capacities that persist beyond particular people?",
+      "context": "Organization · Institutional change"
     },
     {
-      "title": "Beliefs & preferences",
-      "question": "How might preferences and beliefs influence one another over time, starting from particular historical conditions?",
-      "context": "Feedback · Formal theory"
+      "title": "Interpretive capacity",
+      "question": "How do institutions shape what people can observe and how they attribute the results of collective work?",
+      "context": "Information · Attribution · Beliefs"
     },
     {
-      "title": "Institutions & valuation",
-      "question": "Can expressing different forms of value in monetary terms influence preferences?",
-      "context": "Valuation · Capitalist institutions"
+      "title": "Institutional alternatives",
+      "question": "How do people judge whether an incumbent is replaceable when they cannot observe the outcome under an alternative arrangement?",
+      "context": "Counterfactuals · Formal theory"
     }
   ],
   "projects": [

@@ -8,6 +8,15 @@ const basePath = (process.env.SITE_BASE || "").replace(/\/$/, "");
 const source = JSON.parse(await readFile(path.join(root, "content/profile.json"), "utf8"));
 const profile = JSON.parse(await readFile(path.join(out, "profile.json"), "utf8"));
 const research = JSON.parse(await readFile(path.join(out, "research.json"), "utf8"));
+for (const route of ["", "research", "notes", "live", "about", "for-agents"]) {
+  const en = await readFile(path.join(out, route, "index.html"), "utf8");
+  const zh = await readFile(path.join(out, "zh", route, "index.html"), "utf8");
+  assert(en.includes('lang="en"') && zh.includes('lang="zh-CN"'), `Bilingual language mismatch: ${route}`);
+  assert(en.includes('class="language-switch"') && zh.includes('class="language-switch"'), `Missing language switch: ${route}`);
+}
+for (const slug of ["economic-history", "formal-models", "inference", "real-analysis"]) {
+  await stat(path.join(out, "notes", "html", slug, "index.html"));
+}
 assert.equal(profile.name, source.name);
 assert.deepEqual(profile.studies, source.studies);
 assert.equal(profile.bio, source.bio);
@@ -38,6 +47,10 @@ for (const file of files) {
   assert(!/review-notes|make_cv|profile\.json\.bak|academic_record/.test(rel), "Internal source leaked: " + rel);
   if (!file.endsWith(".html")) continue;
   const html = await readFile(file, "utf8");
+  if (rel.startsWith(path.join("notes", "html") + path.sep)) {
+    assert(!/Student ID|Expected Spring 2029|file:\/\/|[A-Z]:\\\\/.test(html), "Private path or identifier in mounted note: " + rel);
+    continue;
+  }
   assert.equal((html.match(/<h1[ >]/g) || []).length, 1, rel + " should have one h1");
   assert(html.includes("<html lang="), rel + " missing language");
   assert(html.includes('name="description"'), rel + " missing description");

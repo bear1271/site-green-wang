@@ -116,6 +116,18 @@ svg {
   color: var(--muted);
   margin-left: 5px;
 }
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.language-switch {
+  border-left: 1px solid var(--line);
+  padding-left: 18px;
+  font-size: 12px;
+  text-decoration: none;
+  white-space: nowrap;
+}
 nav {
   display: flex;
   gap: 29px;
@@ -153,6 +165,21 @@ nav a[aria-current="page"] {
   font-size: 0.69em;
   white-space: nowrap;
 }
+.hero-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+}
+.portrait,
+.about-portrait {
+  display: block;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 60% 50%;
+}
 .intro {
   font-size: 19px;
   line-height: 1.75;
@@ -185,9 +212,10 @@ nav a[aria-current="page"] {
   color: var(--muted);
   margin: 0 0 24px;
 }
-.lens svg {
-  width: 185px;
-  height: 200px;
+.lens-focus {
+  font: italic 21px/1.35 var(--serif);
+  margin: 0 0 22px;
+  max-width: 210px;
 }
 .lens-caption {
   font-size: 12px;
@@ -326,6 +354,13 @@ nav a[aria-current="page"] {
   font-size: 56px;
   margin-bottom: 22px;
 }
+.notes-status {
+  font-size: 0.28em;
+  font-weight: 400;
+  color: var(--muted);
+  vertical-align: middle;
+  white-space: nowrap;
+}
 .page-head .lead {
   font-size: 19px;
   color: var(--muted);
@@ -416,6 +451,40 @@ nav a[aria-current="page"] {
   padding: 33px 0;
   border-top: 1px solid var(--line);
 }
+.note-index {
+  border-top: 1px solid var(--line);
+  margin-bottom: 48px;
+}
+.note-entry {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 24px;
+  padding: 30px 0;
+  border-bottom: 1px solid var(--line);
+}
+.note-entry h2 {
+  margin-bottom: 10px;
+  font-size: clamp(25px, 3vw, 33px);
+}
+.note-entry h2 a {
+  text-decoration: none;
+}
+.note-entry h2 a:hover {
+  text-decoration: underline;
+}
+.note-entry .eyebrow {
+  margin-bottom: 8px;
+}
+.note-entry p:last-child {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+.source-line {
+  color: var(--muted) !important;
+  font-size: 12px;
+  border-left: 1px solid var(--line);
+  padding-left: 15px;
+}
 .note-row h2 {
   font-size: 31px;
   margin-bottom: 16px;
@@ -441,6 +510,9 @@ nav a[aria-current="page"] {
   padding-left: 28px;
   font-size: 13px;
   color: var(--muted);
+}
+.about-portrait {
+  margin-bottom: 28px;
 }
 .about-grid aside .eyebrow {
   margin-top: 5px;
@@ -531,6 +603,11 @@ pre {
     flex-wrap: wrap;
     padding: 22px 0 15px;
   }
+  .header-actions {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 8px 18px;
+  }
   .brand {
     font-size: 22px;
   }
@@ -551,6 +628,13 @@ pre {
   }
   .lens {
     display: none;
+  }
+  .hero-side {
+    gap: 0;
+  }
+  .portrait {
+    width: 130px;
+    height: 130px;
   }
   .work {
     grid-template-columns: 100px 1fr 16px;
@@ -598,6 +682,20 @@ pre {
     margin-top: 13px;
     justify-content: space-between;
     gap: 10px;
+  }
+  .header-actions {
+    justify-content: space-between;
+    margin-top: 13px;
+  }
+  .header-actions nav {
+    margin-top: 0;
+  }
+  .language-switch {
+    padding-left: 10px;
+  }
+  .note-entry {
+    grid-template-columns: 40px 1fr;
+    gap: 12px;
   }
   .hero h1 {
     font-size: 47px;
