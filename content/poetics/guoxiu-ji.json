@@ -1,0 +1,457 @@
+{
+  "id": "guoxiu-ji",
+  "title": "《國秀集》 / The Guoxiu Ji",
+  "abstract": "An anthology handout on the compilation, transmission, selection criteria, and literary views of 《國秀集》, with original texts and bibliography.",
+  "author": "Green Wang",
+  "course": "CHINESE 230",
+  "edition_date": "2026-10-29",
+  "blocks": [
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "The Guoxiu Ji 國秀集",
+      "html": "The Guoxiu Ji 國秀集"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "Chinese 230, Green Wang, Feb. 12th",
+      "html": "Chinese 230, Green Wang, Feb. 12th"
+    },
+    {
+      "group": 0,
+      "kind": "h2",
+      "text": "1. Background and Overview",
+      "html": "1. Background and Overview"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "“國秀集三卷，唐人詩總二百二十篇，天寶三栽（744）西子生芮挺章撰，樓潁序之“ （曾彥和跋)",
+      "html": "“國秀集三卷，唐人詩總二百二十篇，天寶三栽（744）西子生芮挺章撰，樓潁序之“ （曾彥和跋)"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "“芮挺章編《國秀集》，當在 天寶三、四年間“ （傅璇琮 23）",
+      "html": "“芮挺章編《國秀集》，當在 天寶三、四年間“ （傅璇琮 23）"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "“天寶十二載至乾元、上元這段時間內” （張羽 9）",
+      "html": "“天寶十二載至乾元、上元這段時間內” （張羽 9）"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "（張羽 9）",
+      "html": "（張羽 9）"
+    },
+    {
+      "group": 0,
+      "kind": "image",
+      "src": "/notes/poetics/assets/guoxiu-ji-source-figure.png",
+      "alt": "《國秀集》詩體數量統計，引自張羽《國秀集》研究，第 9 頁。五律101、五排26、五絕19、五古29、雜言3；七律5、七排0、七絕31、七古4。"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "“now it survives with 218 poems by eighty-eight poets. More than 90 percent of the poems are",
+      "html": "“now it survives with 218 poems by eighty-eight poets. More than 90 percent of the poems are"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "\"recent-style verse;' (近體) either eight-line \"regulated verse\"(律) or quatrains (絕). One",
+      "html": "&quot;recent-style verse;&#x27; (近體) either eight-line &quot;regulated verse&quot;(律) or quatrains (絕). One"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "may assume that such poems would be of most interest for a student who was preparing for the jinshi examination, in which he would be required to write verse in this style.” (Oxford Handbook 309)",
+      "html": "may assume that such poems would be of most interest for a student who was preparing for the jinshi examination, in which he would be required to write verse in this style.” (Oxford Handbook 309)"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "強調「順澤」與「風流婉麗」，追求辭採華美、聲律和諧，標榜「可被管絃」",
+      "html": "強調「順澤」與「風流婉麗」，追求辭採華美、聲律和諧，標榜「可被管絃」"
+    },
+    {
+      "group": 1,
+      "kind": "h2",
+      "text": "2. Rui Tingzhang (芮挺章) and Lou Ying (樓潁)",
+      "html": "2. Rui Tingzhang (芮挺章) and Lou Ying (樓潁)"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "芮挺章，國子生，training for 科舉 ",
+      "html": "芮挺章，國子生，training for 科舉 "
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "祕書監陳公（希烈）、國子司業蘇公（源明）；“對比蘇源明為國子司業、 陳希烈任職祕書省的共同時間，就只有天寶12載（753）末至13載（754）9月以前” (蔡瑜 54)",
+      "html": "祕書監陳公（希烈）、國子司業蘇公（源明）；“對比蘇源明為國子司業、 陳希烈任職祕書省的共同時間，就只有天寶12載（753）末至13載（754）9月以前” (蔡瑜 54)"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "“至德2載（757），肅宗賜死陳希烈“ (蔡瑜 54)",
+      "html": "“至德2載（757），肅宗賜死陳希烈“ (蔡瑜 54)"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "樓潁，“編次”，作序",
+      "html": "樓潁，“編次”，作序"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "芮、樓二人應同在國子監修進士業，與一般鄉貢進士不同。二人當有 同窗之誼，然皆終其一生未能中第。（蔡瑜 55）",
+      "html": "芮、樓二人應同在國子監修進士業，與一般鄉貢進士不同。二人當有 同窗之誼，然皆終其一生未能中第。（蔡瑜 55）"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《登科記》 引《唐摭言》：「天寶九年七月，詔於國子監別置廣文館，以舉常修進士業者。」",
+      "html": "《登科記》 引《唐摭言》：「天寶九年七月，詔於國子監別置廣文館，以舉常修進士業者。」"
+    },
+    {
+      "group": 3,
+      "kind": "h2",
+      "text": "3. Text Reliability and Circulation",
+      "html": "3. Text Reliability and Circulation"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "Absent from 《新唐書·藝文志》 and《崇文總目》 曾彥和，元佑年間跋 （前記）",
+      "html": "Absent from 《新唐書·藝文志》 and《崇文總目》 曾彥和，元佑年間跋 （前記）"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "“集中字句，多有與他本互異者” （提要）",
+      "html": "“集中字句，多有與他本互異者” （提要）"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "凡九十人，詩二百二十首（序）；實八十五人，詩二百十一首（提要）；218 poems, 85 poets ",
+      "html": "凡九十人，詩二百二十首（序）；實八十五人，詩二百十一首（提要）；218 poems, 85 poets "
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "嘉靖，佚名輯，鄭振鐸跋，《唐人選唐詩六種》（前記）",
+      "html": "嘉靖，佚名輯，鄭振鐸跋，《唐人選唐詩六種》（前記）"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "oldest surviving versions, 汲古閣，毛晉，崇禎元年(1628) 《唐人選唐詩八種》（張羽 12）",
+      "html": "oldest surviving versions, 汲古閣，毛晉，崇禎元年(1628) 《唐人選唐詩八種》（張羽 12）"
+    },
+    {
+      "group": 4,
+      "kind": "h2",
+      "text": "4. Literary Views/Manifesto",
+      "html": "4. Literary Views/Manifesto"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "“以聲折爲宏壯，勢奔爲清逸，此蒿視者之目，聒聽者之耳，可爲長太息也。” （序）",
+      "html": "“以聲折爲宏壯，勢奔爲清逸，此蒿視者之目，聒聽者之耳，可爲長太息也。” （序）"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "“昔陸平原之論文曰：“詩縁情而綺靡。”是彩色相宣、煙霞交暎、風流婉麗之謂也。仲尼定禮樂、正雅頌，採古詩三千餘什，得三百五篇，皆舞而蹈之、弦而歌之，亦取其順澤者也。“（序）",
+      "html": "“昔陸平原之論文曰：“詩縁情而綺靡。”是彩色相宣、煙霞交暎、風流婉麗之謂也。仲尼定禮樂、正雅頌，採古詩三千餘什，得三百五篇，皆舞而蹈之、弦而歌之，亦取其順澤者也。“（序）"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "Against the “distorted” \"grandeur\" (聲折) and \"refinement\" (勢奔)",
+      "html": "Against the “distorted” &quot;grandeur&quot; (聲折) and &quot;refinement&quot; (勢奔)"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "《詩源辯體》認爲“此蓋譏李、杜也” （張羽 39）",
+      "html": "《詩源辯體》認爲“此蓋譏李、杜也” （張羽 39）"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。”《將進酒》李白 天寶十一載 752",
+      "html": "人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。”《將進酒》李白 天寶十一載 752"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "“杜陵有布衣，老大意轉拙。 許身一何愚，竊比稷與契。”《自京赴奉先縣詠懷五百字》杜甫 天寶十四載755",
+      "html": "“杜陵有布衣，老大意轉拙。 許身一何愚，竊比稷與契。”《自京赴奉先縣詠懷五百字》杜甫 天寶十四載755"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "張萬頃《東溪待蘇戶曹不至》詩，《養一齋詩話》卷八評，”此詩風調之美，直逼齊梁”",
+      "html": "張萬頃《東溪待蘇戶曹不至》詩，《養一齋詩話》卷八評，”此詩風調之美，直逼齊梁”"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "“洛陽城東伊水西，千花萬竹使人迷。臺上柳枝臨岸低，門前荷葉與橋齊。日暮待君君不見，長風吹雨過青溪。”",
+      "html": "“洛陽城東伊水西，千花萬竹使人迷。臺上柳枝臨岸低，門前荷葉與橋齊。日暮待君君不見，長風吹雨過青溪。”"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "常非月《詠談容娘》詩，《唐詩歸》卷二四評，”真齊、梁人心口”",
+      "html": "常非月《詠談容娘》詩，《唐詩歸》卷二四評，”真齊、梁人心口”"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "“舉手整花鈿，翻身舞錦筵。馬圍行處匝，人壓看場圓。歌索齊聲和，情教細語傳。不知心大小，容得許多憐？",
+      "html": "“舉手整花鈿，翻身舞錦筵。馬圍行處匝，人壓看場圓。歌索齊聲和，情教細語傳。不知心大小，容得許多憐？"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "盧饌《南樓望》詩，《唐詩廣選》卷六評，“語簡而委婉，無限深情。”（張羽 39）",
+      "html": "盧饌《南樓望》詩，《唐詩廣選》卷六評，“語簡而委婉，無限深情。”（張羽 39）"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "去國三巴遠，登樓萬里春。傷心江上客，不是故鄉人。",
+      "html": "去國三巴遠，登樓萬里春。傷心江上客，不是故鄉人。"
+    },
+    {
+      "group": 7,
+      "kind": "h2",
+      "text": "4. Criteria of Choice",
+      "html": "4. Criteria of Choice"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "“互相標榜之風，已萌櫱於此。”（提要）",
+      "html": "“互相標榜之風，已萌櫱於此。”（提要）"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "“然文章論定，自有公評，要當待之天下後世，何必露才揚已，先自表章？“（提要）",
+      "html": "“然文章論定，自有公評，要當待之天下後世，何必露才揚已，先自表章？“（提要）"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Exclusion of Du’Fu and Li’Bai",
+      "html": "Exclusion of Du’Fu and Li’Bai"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Inclusion of Lu Zhuan (盧僎)，13 poems",
+      "html": "Inclusion of Lu Zhuan (盧僎)，13 poems"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "張說、張九齡，提拔引薦",
+      "html": "張說、張九齡，提拔引薦"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "寧王李憲與皎王李範，遊宴",
+      "html": "寧王李憲與皎王李範，遊宴"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "七人，“知貢舉“ ，宋之問 沈佺期 張說 董思恭 席豫 孫逖 劉廷琦（張羽 16~17）",
+      "html": "七人，“知貢舉“ ，宋之問 沈佺期 張說 董思恭 席豫 孫逖 劉廷琦（張羽 16~17）"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "“有司一朝而受者，幾千萬言，讀不能十一 … 如此而曰吾能不遺士者，僞也。” 《送韋七秀才下第求益友序》 柳宗元 ",
+      "html": "“有司一朝而受者，幾千萬言，讀不能十一 … 如此而曰吾能不遺士者，僞也。” 《送韋七秀才下第求益友序》 柳宗元 "
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "“上編多集中三省之中 的官員，中編次之，下編的詩人則社會地位卑微，某些詩人甚至無宮無爵。”(郝潤華 720)",
+      "html": "“上編多集中三省之中 的官員，中編次之，下編的詩人則社會地位卑微，某些詩人甚至無宮無爵。”(郝潤華 720)"
+    },
+    {
+      "group": 10,
+      "kind": "h2",
+      "text": "5. Vision/Imagination of High Tang",
+      "html": "5. Vision/Imagination of High Tang"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "禮樂、雅頌 （序）",
+      "html": "禮樂、雅頌 （序）"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "譴謫蕪穢，登納菁英 （序）",
+      "html": "譴謫蕪穢，登納菁英 （序）"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "National Spirit (國秀), National University (國子監), Imperial Court",
+      "html": "National Spirit (國秀), National University (國子監), Imperial Court"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "poetry and music are inseparable (可被管絃)",
+      "html": "poetry and music are inseparable (可被管絃)"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "Takeaways",
+      "html": "Takeaways"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "國子監, 順澤, 90% are 近體, Ideal Poets are Officials/Courtiers",
+      "html": "國子監, 順澤, 90% are 近體, Ideal Poets are Officials/Courtiers"
+    },
+    {
+      "group": 11,
+      "kind": "h2",
+      "text": "Original Texts",
+      "html": "Original Texts"
+    },
+    {
+      "group": 11,
+      "kind": "h2",
+      "text": "一、四庫全書提要 Si Ku Quan Shu Summary/Comment",
+      "html": "一、四庫全書提要 Si Ku Quan Shu Summary/Comment"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "臣等謹案：國秀集三卷，唐國子進士芮挺章選。前有舊序，謂是集編於天寶三載，凡九十人，詩二百二十首。宋元佑間曾彥和跋雲：名欠一士，詩增一篇。明毛晉校刊復謂虛列三人。今按編內實八十五人，詩二百十一首，晉未及詳檢也。",
+      "html": "臣等謹案：國秀集三卷，唐國子進士芮挺章選。前有舊序，謂是集編於天寶三載，凡九十人，詩二百二十首。宋元佑間曾彥和跋雲：名欠一士，詩增一篇。明毛晉校刊復謂虛列三人。今按編內實八十五人，詩二百十一首，晉未及詳檢也。"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "唐以前編輯總集，以已作入選者，始於王逸之録《楚詞》，再見於徐陵之撰《玉臺新詠》。挺章亦録已作二篇，蓋仿其例。考梁昭明撰《文選》，以何遜猶在，不録其詩，蓋欲杜絶世情，用彰公道。今挺章與穎，一則以見存之人採錄其詩，一則以選已之詩爲之作序，後來互相標榜之風，已萌櫱於此。",
+      "html": "唐以前編輯總集，以已作入選者，始於王逸之録《楚詞》，再見於徐陵之撰《玉臺新詠》。挺章亦録已作二篇，蓋仿其例。考梁昭明撰《文選》，以何遜猶在，不録其詩，蓋欲杜絶世情，用彰公道。今挺章與穎，一則以見存之人採錄其詩，一則以選已之詩爲之作序，後來互相標榜之風，已萌櫱於此。"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "然文章論定，自有公評，要當待之天下後世，何必露才揚已，先自表章？雖有例可援，終不可爲訓。舊序一篇，無作者姓氏，陳振孫謂爲樓穎所作。穎天寳進士，其詩亦選入。此知明人陋習其來有漸，非一朝一夕之故矣。",
+      "html": "然文章論定，自有公評，要當待之天下後世，何必露才揚已，先自表章？雖有例可援，終不可爲訓。舊序一篇，無作者姓氏，陳振孫謂爲樓穎所作。穎天寳進士，其詩亦選入。此知明人陋習其來有漸，非一朝一夕之故矣。"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "以唐人舊本所選尚多可採，仍録存之，而特着其陋，以爲文士戒。集中字句，多有與他本互異者，疑當時傳本不同，茲繕録並仍其舊雲。乾隆四十二年九月恭校上。",
+      "html": "以唐人舊本所選尚多可採，仍録存之，而特着其陋，以爲文士戒。集中字句，多有與他本互異者，疑當時傳本不同，茲繕録並仍其舊雲。乾隆四十二年九月恭校上。"
+    },
+    {
+      "group": 12,
+      "kind": "h2",
+      "text": "二、《國秀集序》（樓穎作）Preface, by Lou Ying",
+      "html": "二、《國秀集序》（樓穎作）Preface, by Lou Ying"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "昔陸平原之論文曰：“詩縁情而綺靡。”是彩色相宣、煙霞交暎、風流婉麗之謂也。仲尼定禮樂、正雅頌，採古詩三千餘什，得三百五篇，皆舞而蹈之、弦而歌之，亦取其順澤者也。",
+      "html": "昔陸平原之論文曰：“詩縁情而綺靡。”是彩色相宣、煙霞交暎、風流婉麗之謂也。仲尼定禮樂、正雅頌，採古詩三千餘什，得三百五篇，皆舞而蹈之、弦而歌之，亦取其順澤者也。"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "近祕書監陳公、國子司業蘇公，嘗從容謂芮侯曰：“風雅之後，數千載間，詞人才子，禮樂大壞。諷者溺於所譽，志者乖其所之，務以聲折爲宏壯，勢奔爲清逸，此蒿視者之目，聒聽者之耳，可爲長太息也。運屬皇家，否終復泰。優遊闕里，唯聞子夏之言；惆悵河梁，獨見少卿之作。及源流浸廣，風雲極致，雖發詞遣句，未協風騷，而披林擷秀，揭厲良多。自開元以來，維天寶三載，譴謫蕪穢，登納菁英，可被管絃者都爲一集。”",
+      "html": "近祕書監陳公、國子司業蘇公，嘗從容謂芮侯曰：“風雅之後，數千載間，詞人才子，禮樂大壞。諷者溺於所譽，志者乖其所之，務以聲折爲宏壯，勢奔爲清逸，此蒿視者之目，聒聽者之耳，可爲長太息也。運屬皇家，否終復泰。優遊闕里，唯聞子夏之言；惆悵河梁，獨見少卿之作。及源流浸廣，風雲極致，雖發詞遣句，未協風騷，而披林擷秀，揭厲良多。自開元以來，維天寶三載，譴謫蕪穢，登納菁英，可被管絃者都爲一集。”"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "芮侯即探書禹穴，求珠赤水，取太沖之清詞，無嫌近溷；得興公之佳句，寧止擲金。道苟可得，不棄於廝養；事非適理，何貴於膏梁。其有巖壑孤貞、市朝大隠，神珠匿耀，剖巨蚌而寧周；寶劍韜精，望鬥牛而未獲。",
+      "html": "芮侯即探書禹穴，求珠赤水，取太沖之清詞，無嫌近溷；得興公之佳句，寧止擲金。道苟可得，不棄於廝養；事非適理，何貴於膏梁。其有巖壑孤貞、市朝大隠，神珠匿耀，剖巨蚌而寧周；寶劍韜精，望鬥牛而未獲。"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "目之縑素，有愧遺才。尚欲巡採風謡，旁求側陋，而陳公已化爲異物，堆案颯然，無與樂成，遂因絶筆。今編次見在者凡九十人，詩二百二十首，爲之小集，成一家之言。",
+      "html": "目之縑素，有愧遺才。尚欲巡採風謡，旁求側陋，而陳公已化爲異物，堆案颯然，無與樂成，遂因絶筆。今編次見在者凡九十人，詩二百二十首，爲之小集，成一家之言。"
+    },
+    {
+      "group": 12,
+      "kind": "h2",
+      "text": "Bibliography",
+      "html": "Bibliography"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "國秀集四庫提要、原序（唐人選唐詩新編 傅璇琮、陳尚君 中華書局2014）",
+      "html": "國秀集四庫提要、原序（唐人選唐詩新編 傅璇琮、陳尚君 中華書局2014）"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "李珍華 傅璇琮. 河岳英靈集研究 [Research on Heyueyingling ji]. 2023. ZhonghuaShuju.",
+      "html": "李珍華 傅璇琮. 河岳英靈集研究 [Research on Heyueyingling ji]. 2023. ZhonghuaShuju."
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "\"Anthologies in the Tang,\" in The Oxford Handbook of Classical Chinese Literature (1000BCE-900 CE), ed. Denecke, Li, and Tian (Oxford: Oxford Univ. Press, 2017), 303-315.",
+      "html": "&quot;Anthologies in the Tang,&quot; in The Oxford Handbook of Classical Chinese Literature (1000BCE-900 CE), ed. Denecke, Li, and Tian (Oxford: Oxford Univ. Press, 2017), 303-315."
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "Zhang, Yu (張羽). 《國秀集》研究 [Research on Guoxiu ji]. 2005. Northwest Normal University.",
+      "html": "Zhang, Yu (張羽). 《國秀集》研究 [Research on Guoxiu ji]. 2005. Northwest Normal University."
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "Hao, Runhua (郝潤華), and Zhang Yu (張羽). 《國秀集》編選動因探微 [A Study of the Motivation for Compiling Guoxiu ji], pp. 716-728.",
+      "html": "Hao, Runhua (郝潤華), and Zhang Yu (張羽). 《國秀集》編選動因探微 [A Study of the Motivation for Compiling Guoxiu ji], pp. 716-728."
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "Tan, Hui (檀輝). 《河岳英靈集》與《國秀集》選詩研究 [A Study of the Selected Poetry in Heyue yingling ji and Guoxiu ji]. 2011. Hebei Normal University.",
+      "html": "Tan, Hui (檀輝). 《河岳英靈集》與《國秀集》選詩研究 [A Study of the Selected Poetry in Heyue yingling ji and Guoxiu ji]. 2011. Hebei Normal University."
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "Tsai, Yu (蔡瑜). 唐代《國秀集》詩律探微 [Analysis of the Metrical Pattern of Guo Xiu Ji in the High Tang through Cross-References between Poetry Selection and Shi Ge]. Chengda zhongwen xuebao [Journal of Chinese Literature of National Cheng Kung University], vol. 74, 2021, pp. 47-94.",
+      "html": "Tsai, Yu (蔡瑜). 唐代《國秀集》詩律探微 [Analysis of the Metrical Pattern of Guo Xiu Ji in the High Tang through Cross-References between Poetry Selection and Shi Ge]. Chengda zhongwen xuebao [Journal of Chinese Literature of National Cheng Kung University], vol. 74, 2021, pp. 47-94."
+    }
+  ],
+  "footnotes": [],
+  "editorial_note": "完整保留原講義的段落次序、詩文、分析、譯文、引文及腳注；中文統一為繁體。原稿中的存疑字句、異文與簡略出處保留，未擅自補訂。",
+  "attribution_note": "「My Translation」及李嶷篇未另署名的英譯為作者原稿譯文；標為 Kroll 的譯文及其他署名引文保留原有歸屬。第三方引文與附圖不在本站原創內容授權範圍內。"
+}

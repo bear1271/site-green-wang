@@ -908,3 +908,16 @@ pre {
 @media(max-width:640px){.research-note h2{font-size:23px}.note-abstract{font-size:15px}.notes-topic-grid{grid-template-columns:1fr}.notes-topic h3{font-size:24px}.notes-empty{padding:24px}.notes-section-head{flex-wrap:wrap;gap:8px}.notes-section-head h2{font-size:22px}.notes-subject-links{gap:12px 20px}}
 
 .note-edition{margin:16px 0 0;line-height:1.7}
+.poetics-layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:44px;align-items:start}
+.poetics-toc{display:block;position:sticky;top:24px;font-size:13px;line-height:1.6}
+.poetics-toc ol{padding:0;list-style:none}.poetics-toc li{margin:0 0 10px}
+.poetics-body{font-family:Georgia,"Noto Serif TC","PMingLiU","Microsoft JhengHei",serif;font-size:17px;line-height:1.95;overflow-wrap:anywhere}
+.poetics-body p{white-space:pre-wrap;margin-bottom:1.1em}
+.poetics-body h2{font-size:25px;line-height:1.5;margin:42px 0 18px}
+.poetics-body figure{margin:24px 0}.poetics-body img{max-width:100%;height:auto}
+.poetics-body figcaption,.poetics-editorial{font-size:13px;color:var(--muted)}
+.poetics-editorial{border-top:1px solid var(--line);padding-top:16px}
+.poetics-body sup{font-family:var(--sans);font-size:11px;line-height:0}
+.poetics-footnotes{font-size:14px;border-top:1px solid var(--line);margin-top:32px}
+@media(max-width:780px){.poetics-layout{grid-template-columns:1fr;gap:20px}.poetics-toc{position:static}.poetics-toc ol{columns:2;column-gap:28px}.poetics-toc li{break-inside:avoid}.poetics-body{font-size:16px}.poetics-head h1{font-size:40px}}
+@media print{.poetics-layout{display:block}.poetics-toc{display:none}.poetics-body{font-size:11pt}.poetics-body h2{break-after:avoid}}

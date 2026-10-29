@@ -32,14 +32,25 @@ for (const category of noteCategories) {
 }
 for (const note of publicNotes.filter(n=>n.status === "public")) {
   assert.equal(note.access_verified, true, "Unverified Drive note must not be published");
-  const destination = new URL(note.href);
-  assert.equal(destination.hostname, "drive.google.com");
-  assert.equal(destination.pathname, `/file/d/${note.drive_id}/view`);
-  assert(allNotesIndex.includes(note.drive_id), "Approved public reading edition missing from catalog");
+  if (note.hosting === "site") {
+    assert(note.href.startsWith("/notes/poetics/"), "Unexpected public note route");
+    const noteHtml = await readFile(path.join(out, note.href, "index.html"), "utf8");
+    const edition = JSON.parse(await readFile(path.join(root, "content/poetics", note.id + ".json"), "utf8"));
+    assert.equal((noteHtml.match(/<h2 id="section-/g) || []).length, edition.blocks.filter(b=>b.kind==='h2').length);
+    for (const block of edition.blocks.filter(b=>b.kind==='p')) assert(noteHtml.includes(block.html), "Full source paragraph missing");
+    for (const fn of edition.footnotes) assert(noteHtml.includes(`id="fn-${fn.id}"`), "Footnote missing");
+    const notePdf = await readFile(path.join(out, note.pdf));
+    assert(notePdf.subarray(0,4).toString() === "%PDF", "Reading PDF missing");
+  } else {
+    const destination = new URL(note.href);
+    assert.equal(destination.hostname, "drive.google.com");
+    assert.equal(destination.pathname, `/file/d/${note.drive_id}/view`);
+  }
+  assert(allNotesIndex.includes(note.href), "Approved public reading edition missing from catalog");
   const category = noteCategories.find(c => (note.categoryId || note.category) === c.id || (!note.categoryId && note.category === c.title));
   assert(category, "Public reading edition needs a recognized subject");
   const categoryPage = await readFile(path.join(out, "notes", category.id, "index.html"), "utf8");
-  assert(categoryPage.includes(note.drive_id), "Approved public reading edition missing from subject page");
+  assert(categoryPage.includes(note.href), "Approved public reading edition missing from subject page");
 }
 assert(!/notes\/(?:library|html)\//.test(publicIndex), "Private archive linked from public index");
 assert.equal(profile.name, source.name);

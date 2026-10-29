@@ -1,0 +1,366 @@
+{
+  "id": "li-yi",
+  "title": "李嶷 / Li Yi",
+  "abstract": "A handout on 李嶷, tracing textual circulation and reading the 少年行 poems alongside personal translations and related poems.",
+  "author": "Green Wang",
+  "course": "CHINESE 230",
+  "edition_date": "2026-10-29",
+  "blocks": [
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "李嶷",
+      "html": "李嶷"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "Chinese 230, Green Wang",
+      "html": "Chinese 230, Green Wang"
+    },
+    {
+      "group": 0,
+      "kind": "h2",
+      "text": "Preface",
+      "html": "Preface"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "嶷詩鮮潔有規矩，其少年行三首，詞雖不多，翩翩然俠氣在目也。",
+      "html": "嶷詩鮮潔有規矩，其少年行三首，詞雖不多，翩翩然俠氣在目也。"
+    },
+    {
+      "group": 1,
+      "kind": "h2",
+      "text": "Record of 李嶷",
+      "html": "Record of 李嶷"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "開元十五年進士，王昌齡、常建同榜 《唐才子傳》（辛文房，大德八年 1304）",
+      "html": "開元十五年進士，王昌齡、常建同榜 《唐才子傳》（辛文房，大德八年 1304）"
+    },
+    {
+      "group": 2,
+      "kind": "h2",
+      "text": "Circulation",
+      "html": "Circulation"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《文苑英華》卷一百九十四（李昉等，雍熙三年986）僅少年行",
+      "html": "《文苑英華》卷一百九十四（李昉等，雍熙三年986）僅少年行"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《唐文粹》卷第十五之上古調七 （姚鉉，寶元二年 1039）僅淮南秋夜呈周偘",
+      "html": "《唐文粹》卷第十五之上古調七 （姚鉉，寶元二年 1039）僅淮南秋夜呈周偘"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《樂府詩集》卷六十六·雜曲歌辭·少年行三首（郭茂倩，元祐年間）僅少年行",
+      "html": "《樂府詩集》卷六十六·雜曲歌辭·少年行三首（郭茂倩，元祐年間）僅少年行"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《唐詩紀事》卷第二十二 （計有功，嘉定十七年 1224）",
+      "html": "《唐詩紀事》卷第二十二 （計有功，嘉定十七年 1224）"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《唐音》卷八 （楊士弘，至正四年 1344）僅少年行，未分節",
+      "html": "《唐音》卷八 （楊士弘，至正四年 1344）僅少年行，未分節"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《唐詩品匯》·五言古詩卷之十六 （高柄，洪武二十六年  1393）",
+      "html": "《唐詩品匯》·五言古詩卷之十六 （高柄，洪武二十六年  1393）"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "《唐人選唐詩（六種）》（佚名，嘉靖年間）",
+      "html": "《唐人選唐詩（六種）》（佚名，嘉靖年間）"
+    },
+    {
+      "group": 3,
+      "kind": "h2",
+      "text": "Selected Poem",
+      "html": "Selected Poem"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "少年行",
+      "html": "少年行"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "十八羽林郎，戎衣侍漢王。",
+      "html": "十八羽林郎，戎衣侍漢王。"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "臂鷹金殿側，挾彈玉輿傍。",
+      "html": "臂鷹金殿側，挾彈玉輿傍。"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "馳道春風起，陪游出建章。",
+      "html": "馳道春風起，陪游出建章。"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "Ballad of Youth",
+      "html": "Ballad of Youth"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "Eighteen-year-olds royal guards,",
+      "html": "Eighteen-year-olds royal guards,"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "In martial dress, serving the Crown of Han.",
+      "html": "In martial dress, serving the Crown of Han."
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "With goshawk on arm, beside the Golden Hall,",
+      "html": "With goshawk on arm, beside the Golden Hall,"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "With bow-pellets in fingers, by the Jade Carriage.",
+      "html": "With bow-pellets in fingers, by the Jade Carriage."
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "On the Empire’s road, spring winds rise,",
+      "html": "On the Empire’s road, spring winds rise,"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "Accompanying the outing, they depart from Jianzhang (Palace).",
+      "html": "Accompanying the outing, they depart from Jianzhang (Palace)."
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "　　又",
+      "html": "　　又"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "侍獵長楊下，承恩更射飛。",
+      "html": "侍獵長楊下，承恩更射飛。"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "塵生馬影滅，箭落雁行稀。",
+      "html": "塵生馬影滅，箭落雁行稀。"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "薄暮隨天仗，聮翩入瑣闈。",
+      "html": "薄暮隨天仗<sup><a href=\"#fn-1\" id=\"ref-1\">1</a></sup>，聮翩入瑣闈。"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "Attending the hunt beneath the Tall Poplars,",
+      "html": "Attending the hunt beneath the Tall Poplars,"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "Enjoying the Crown’s favor and shooting the flying prey.",
+      "html": "Enjoying the Crown’s favor and shooting the flying prey."
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "Dust rises, and horse shadows vanish;",
+      "html": "Dust rises, and horse shadows vanish;"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "Arrows fall, and goose ranks grow thin.",
+      "html": "Arrows fall, and goose ranks grow thin."
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "At twilight, they follow the imperial retinue,",
+      "html": "At twilight, they follow the imperial retinue,"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "In succession, entering the latticed gates",
+      "html": "In succession, entering the latticed gates"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "　　又【國秀集作 遊俠 】",
+      "html": "　　又【國秀集作 遊俠 】"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "玉劍膝邊橫，金盃馬上傾。",
+      "html": "玉劍膝邊橫，金盃馬上傾。"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "朝遊茂陵道，夜宿鳳皇城。",
+      "html": "朝遊茂陵道，夜宿鳳皇城。"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "豪吏多猜忌，毋勞問姓名。",
+      "html": "豪吏多猜忌，毋勞問姓名。"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "The Traveling Knight",
+      "html": "The Traveling Knight"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "A jade sword athwart his knees,",
+      "html": "A jade sword athwart his knees,"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "A golden cup tilts upon his horse.",
+      "html": "A golden cup tilts upon his horse."
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "In dawn, roaming the Maoling Road,",
+      "html": "In dawn, roaming the Maoling Road,"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "At night, lodging in Phoenix City.",
+      "html": "At night, lodging in Phoenix City."
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "“(You) the bold clerks may wonder and suspect,",
+      "html": "“(You) the bold clerks may wonder and suspect,"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "But don’t trouble yourself for asking a House or Name.”",
+      "html": "But don’t trouble yourself for asking a House or Name.”"
+    },
+    {
+      "group": 6,
+      "kind": "h2",
+      "text": "Other 少年行 in 國秀集 and 河岳英靈集",
+      "html": "Other 少年行 in 國秀集 and 河岳英靈集"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "少年行 （王維）",
+      "html": "少年行 （王維）"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "一身能擘兩雕弧，敵騎千重只似無。偏坐金鞍調白羽，紛紛射殺五單于。",
+      "html": "一身能擘兩雕弧，敵騎千重只似無。偏坐金鞍調白羽，紛紛射殺五單于。"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "邯鄲少年行 （高適）",
+      "html": "邯鄲少年行 （高適）"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "邯鄲城南遊俠子，自矜生長邯鄲裡。千場縱博家仍富，幾處報讎身不死。宅中歌笑日紛紛，門外車馬如雲屯。未知肝膽向誰是，令人卻憶平原君。君不見即今交態薄，黃金用盡還疎索。以茲感歎辭舊遊，更於時事無所求。且與少年飲美酒，往來射獵西山頭。",
+      "html": "邯鄲城南遊俠子，自矜生長邯鄲裡。千場縱博家仍富，幾處報讎身不死。宅中歌笑日紛紛，門外車馬如雲屯。未知肝膽向誰是，令人卻憶平原君。君不見即今交態薄，黃金用盡還疎索。以茲感歎辭舊遊，更於時事無所求。且與少年飲美酒，往來射獵西山頭。"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "少年行 （崔國輔） 【國秀集同】",
+      "html": "少年行 （崔國輔） 【國秀集同】"
+    },
+    {
+      "group": 8,
+      "kind": "p",
+      "text": "遺卻珊瑚鞭，白馬驕不行。章臺折楊柳，春日路傍情。",
+      "html": "遺卻珊瑚鞭，白馬驕不行。章臺折楊柳，春日路傍情。"
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "少年行 （王昌齡）",
+      "html": "少年行 （王昌齡）"
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "西陵俠少年，送客短長亭。青槐夾兩路，白馬如流星。聞道羽書急，單于寇井陘。氣高輕赴難，誰顧燕山銘。",
+      "html": "西陵俠少年，送客短長亭。青槐夾兩路，白馬如流星。聞道羽書急，單于寇井陘。氣高輕赴難，誰顧燕山銘。"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "少年行 （芮挺章）",
+      "html": "少年行 （芮挺章）"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "任氣稱張放，銜恩在少年。玉階朝就日，金屋夜昇天。軒騎青雲際，笙歌緑水邉。建章明月好，留醉伴風煙",
+      "html": "任氣稱張放，銜恩在少年。玉階朝就日，金屋夜昇天。軒騎青雲際，笙歌緑水邉。建章明月好，留醉伴風煙"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "樂府詩集作“歸隨仗”"
+    }
+  ],
+  "editorial_note": "完整保留原講義的段落次序、詩文、分析、譯文、引文及腳注；中文統一為繁體。原稿中的存疑字句、異文與簡略出處保留，未擅自補訂。",
+  "attribution_note": "「My Translation」及李嶷篇未另署名的英譯為作者原稿譯文；標為 Kroll 的譯文及其他署名引文保留原有歸屬。第三方引文與附圖不在本站原創內容授權範圍內。"
+}

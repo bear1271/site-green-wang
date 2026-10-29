@@ -1,0 +1,277 @@
+{
+  "id": "wang-changling",
+  "title": "王昌齡 / Wang Changling",
+  "abstract": "A handout on 王昌齡, bringing together poetics, selected poems, personal translation, Kroll’s translation, and historical commentary.",
+  "author": "Green Wang",
+  "course": "CHINESE 230",
+  "edition_date": "2026-10-29",
+  "blocks": [
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "王昌齡",
+      "html": "王昌齡"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "Chinese 230, Green Wang",
+      "html": "Chinese 230, Green Wang"
+    },
+    {
+      "group": 0,
+      "kind": "h2",
+      "text": "Preface, by 殷璠",
+      "html": "Preface, by 殷璠"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "粵若王維、王昌齡、儲光羲等二十四人皆河嶽英靈也，此集便以河嶽英靈為號",
+      "html": "粵若王維、王昌齡、儲光羲等二十四人皆河嶽英靈也，此集便以河嶽英靈為號"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "元嘉以還四百年內，曹劉陸謝風骨頓盡。頃有太原王昌齡、魯國儲光羲，頗從厥跡，且兩賢氣同體別，而王稍聲峻。… 斯並驚耳駭目。今略舉其數十句，則中興高作可知矣。餘嘗覩王公長平伏寃，又吊枳道賦，仁有餘也。奈何晩節不矜細行，謗議沸騰，垂歴遐荒，使知音者歎息",
+      "html": "元嘉以還四百年內，曹劉陸謝風骨頓盡。頃有太原王昌齡、魯國儲光羲，頗從厥跡，且兩賢氣同體別，而王稍聲峻。… 斯並驚耳駭目。今略舉其數十句，則中興高作可知矣。餘嘗覩王公長平伏寃，又吊枳道賦，仁有餘也。奈何晩節不矜細行，謗議沸騰，垂歴遐荒，使知音者歎息"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "*16 poems by 王昌齡 was selected by 殷璠",
+      "html": "*16 poems by 王昌齡 was selected by 殷璠"
+    },
+    {
+      "group": 2,
+      "kind": "h2",
+      "text": "詩格, by 王昌齡",
+      "html": "詩格, by 王昌齡"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "詩有三境，一曰物境。二曰情境。三曰意境。",
+      "html": "詩有三境，一曰物境。二曰情境。三曰意境。"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "物境一。欲為山水詩，則張泉石雲峯之境，極麗絕秀者，神之於心。處身於境，視境於心，瑩然掌中，然後用思，瞭解境象，故得形似。",
+      "html": "物境一。欲為山水詩，則張泉石雲峯之境，極麗絕秀者，神之於心。處身於境，視境於心，瑩然掌中，然後用思，瞭解境象，故得形似。"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "情境二。娛樂愁怨，皆張於意而處於身，然後馳思，深得其情。",
+      "html": "情境二。娛樂愁怨，皆張於意而處於身，然後馳思，深得其情。"
+    },
+    {
+      "group": 2,
+      "kind": "p",
+      "text": "意境三。亦張之於意，而思之於心，則得其真矣。《卷中》",
+      "html": "意境三。亦張之於意，而思之於心，則得其真矣。《卷中》"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "把聲入興十一。王少伯詩：“【】【】三峽水，別怨流《楚辭》。”此耳聞也。古詩：“白楊多悲風，蕭蕭愁殺人。”此心聞也。《卷中》",
+      "html": "把聲入興十一。王少伯詩：“【】【】三峽水，別怨流《楚辭》。”此耳聞也。古詩：“白楊多悲風，蕭蕭愁殺人。”此心聞也。《卷中》"
+    },
+    {
+      "group": 4,
+      "kind": "p",
+      "text": "第十，含思落句勢。含思落句勢者，每至落句，常須含思，不得令語盡思窮。或深意堪愁，不可具說。…",
+      "html": "第十，含思落句勢。含思落句勢者，每至落句，常須含思，不得令語盡思窮。或深意堪愁，不可具說。…"
+    },
+    {
+      "group": 5,
+      "kind": "p",
+      "text": "第十五，理入景勢。理入景勢者，詩不可一向把理，皆須入景，語始清味。理欲入景勢，皆須引理語，入一地及居處，所在便論之。《捲上》",
+      "html": "第十五，理入景勢。理入景勢者，詩不可一向把理，皆須入景，語始清味。理欲入景勢，皆須引理語，入一地及居處，所在便論之。《捲上》"
+    },
+    {
+      "group": 6,
+      "kind": "h2",
+      "text": "Selected Poems",
+      "html": "Selected Poems"
+    },
+    {
+      "group": 6,
+      "kind": "h2",
+      "text": "My Translation",
+      "html": "My Translation"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "Hearing an Exile’s “Melody of the Waters”",
+      "html": "Hearing an Exile’s “Melody of the Waters”"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "A lone boat and a slip of moon, facing a sweetgum grove—",
+      "html": "A lone boat and a slip of moon, facing a sweetgum grove—"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "Given a sounding zheng, to the traveler's heart.",
+      "html": "Given a sounding zheng, to the traveler&#x27;s heart."
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "The colors of Ridges, in a thousand and thousand layers of rain,",
+      "html": "The colors of Ridges, in a thousand and thousand layers of rain,"
+    },
+    {
+      "group": 6,
+      "kind": "p",
+      "text": "The broken strings are taken up, along with deepening tracks of tears.",
+      "html": "The broken strings are taken up, along with deepening tracks of tears."
+    },
+    {
+      "group": 7,
+      "kind": "h2",
+      "text": "(Kroll’s Translation)",
+      "html": "(Kroll’s Translation)"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Hearing an Exile’s “Melody of the Waters”",
+      "html": "Hearing an Exile’s “Melody of the Waters”"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "A lone boat, a slip of moon, across from a sweetgum grove,",
+      "html": "A lone boat, a slip of moon, across from a sweetgum grove,"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "A sounding cithern confides its plight, together with the traveler’s heart.",
+      "html": "A sounding cithern confides its plight, together with the traveler’s heart."
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "The appearance of the Pass is a thousand layers, ten thousand layers of rain;",
+      "html": "The appearance of the Pass is a thousand layers, ten thousand layers of rain;"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "The broken strings gather all in, along with deepening tracks of tears.",
+      "html": "The broken strings gather all in, along with deepening tracks of tears."
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "從軍古意",
+      "html": "從軍古意"
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "青海長雲暗雪山，孤城遙望玉門關。",
+      "html": "青海長雲暗雪山，孤城遙望玉門關。"
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "黃沙百戰穿金甲，不破樓蘭終不還。",
+      "html": "黃沙百戰穿金甲，不破樓蘭終不還。"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "長信宮",
+      "html": "長信宮"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "奉帚平明金殿開，蹔將團扇共徘徊。",
+      "html": "奉帚平明金殿開，蹔將團扇共徘徊。"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "玉顏不及寒鴉色，猶帶昭陽日影來。",
+      "html": "玉顏不及寒鴉色，猶帶昭陽日影來。"
+    },
+    {
+      "group": 12,
+      "kind": "h2",
+      "text": "Comments",
+      "html": "Comments"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "《唐詩紀事·卷二十四》計有功：",
+      "html": "《唐詩紀事·卷二十四》計有功："
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "昌齡，字少伯，江甯人。中第，補校書郎。又中博學宏辭科，遷汜水尉。… 緒密而思清，時謂“王江寧”。",
+      "html": "昌齡，字少伯，江甯人。中第，補校書郎。又中博學宏辭科，遷汜水尉。… 緒密而思清，時謂“王江寧”。"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "… 則中興高作可知矣。予嘗睹昌齡《齋心詩》、《吊軹道賦》，謂其人孤潔恬澹，與物無傷。… 固知善毀者不能掩西施之美也。（計有功載殷璠語）",
+      "html": "… 則中興高作可知矣。予嘗睹昌齡《齋心詩》、《吊軹道賦》，謂其人孤潔恬澹，與物無傷。… 固知善毀者不能掩西施之美也。（計有功載殷璠語）"
+    },
+    {
+      "group": 13,
+      "kind": "p",
+      "text": "少伯天才流麗音唱疏越七言絶句幾與太白比肩當時樂府採錄無出其右。《唐詩品》徐獻忠",
+      "html": "少伯天才流麗音唱疏越七言絶句幾與太白比肩當時樂府採錄無出其右。《唐詩品》徐獻忠"
+    },
+    {
+      "group": 14,
+      "kind": "h2",
+      "text": "Background",
+      "html": "Background"
+    },
+    {
+      "group": 14,
+      "kind": "p",
+      "text": "“昌齡，字少伯，太原人。開元十五年李嶷榜進士，… 後以不護細行，貶龍標尉。”《唐才子傳》辛文房",
+      "html": "“昌齡，字少伯，太原人。開元十五年李嶷榜進士，… 後以不護細行，貶龍標尉。”《唐才子傳》辛文房"
+    },
+    {
+      "group": 14,
+      "kind": "p",
+      "text": "“河傳　水調歌　新水調【脞說水調河傳隋煬帝幸江都時所制曲成奏之聲韻怨切王令言聞而知其不返海録碎事雲隋煬帝開汴河自造水調按水調及新水調並商調曲也唐曲凡十一疊…白居易詩雲五言一遍最慇懃調少情多似有因不防當時翻曲意此聲腸斷為何人 …】”《唐音癸簽》胡震享",
+      "html": "“河傳　水調歌　新水調【脞說水調河傳隋煬帝幸江都時所制曲成奏之聲韻怨切王令言聞而知其不返海録碎事雲隋煬帝開汴河自造水調按水調及新水調並商調曲也唐曲凡十一疊…白居易詩雲五言一遍最慇懃調少情多似有因不防當時翻曲意此聲腸斷為何人 …】”《唐音癸簽》胡震享"
+    },
+    {
+      "group": 14,
+      "kind": "p",
+      "text": "《唐代詩人叢考》傅璿琮；天寶二載(743)-天寶七載(748)，江甯丞-龍標尉，",
+      "html": "《唐代詩人叢考》傅璿琮；天寶二載(743)-天寶七載(748)，江甯丞-龍標尉，"
+    },
+    {
+      "group": 14,
+      "kind": "p",
+      "text": "“楊花落盡子規啼，聞道龍標過五溪。我寄愁心與明月，隨風直到夜郎西。”《聞王昌齡左遷龍標遙有此寄》李白",
+      "html": "“楊花落盡子規啼，聞道龍標過五溪。我寄愁心與明月，隨風直到夜郎西。”《聞王昌齡左遷龍標遙有此寄》李白"
+    },
+    {
+      "group": 14,
+      "kind": "p",
+      "text": "“楚山隔湘水，湖畔落日曛。春雁又北飛，音書固難聞。謫居未為歎，讒枉何由分。”《鄂渚招王昌齡張僨》常建",
+      "html": "“楚山隔湘水，湖畔落日曛。春雁又北飛，音書固難聞。謫居未為歎，讒枉何由分。”《鄂渚招王昌齡張僨》常建"
+    }
+  ],
+  "footnotes": [],
+  "editorial_note": "完整保留原講義的段落次序、詩文、分析、譯文、引文及腳注；中文統一為繁體。原稿中的存疑字句、異文與簡略出處保留，未擅自補訂。",
+  "attribution_note": "「My Translation」及李嶷篇未另署名的英譯為作者原稿譯文；標為 Kroll 的譯文及其他署名引文保留原有歸屬。第三方引文與附圖不在本站原創內容授權範圍內。"
+}

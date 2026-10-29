@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "guoxiu-ji",
+    "title": "《國秀集》 / The Guoxiu Ji",
+    "type": "Seminar handout",
+    "language": "Traditional Chinese and English",
+    "categoryId": "poetics-comparative-literature",
+    "abstract": "An anthology handout on the compilation, transmission, selection criteria, and literary views of 《國秀集》, with original texts and bibliography.",
+    "href": "/notes/poetics/guoxiu-ji/",
+    "pdf": "/notes/poetics/guoxiu-ji.pdf",
+    "format": "HTML + PDF",
+    "edition_date": "2026-10-29",
+    "status": "public",
+    "access_verified": true,
+    "hosting": "site"
+  },
+  {
+    "id": "wang-changling",
+    "title": "王昌齡 / Wang Changling",
+    "type": "Seminar handout",
+    "language": "Traditional Chinese and English",
+    "categoryId": "poetics-comparative-literature",
+    "abstract": "A handout on 王昌齡, bringing together poetics, selected poems, personal translation, Kroll’s translation, and historical commentary.",
+    "href": "/notes/poetics/wang-changling/",
+    "pdf": "/notes/poetics/wang-changling.pdf",
+    "format": "HTML + PDF",
+    "edition_date": "2026-10-29",
+    "status": "public",
+    "access_verified": true,
+    "hosting": "site"
+  },
+  {
+    "id": "zu-yong",
+    "title": "祖詠 / Zu Yong",
+    "type": "Seminar handout",
+    "language": "Traditional Chinese and English",
+    "categoryId": "poetics-comparative-literature",
+    "abstract": "A handout on 祖詠, comparing anthology texts, Kroll’s translation, biographical accounts, and critical commentary.",
+    "href": "/notes/poetics/zu-yong/",
+    "pdf": "/notes/poetics/zu-yong.pdf",
+    "format": "HTML + PDF",
+    "edition_date": "2026-10-29",
+    "status": "public",
+    "access_verified": true,
+    "hosting": "site"
+  },
+  {
+    "id": "li-yi",
+    "title": "李嶷 / Li Yi",
+    "type": "Seminar handout",
+    "language": "Traditional Chinese and English",
+    "categoryId": "poetics-comparative-literature",
+    "abstract": "A handout on 李嶷, tracing textual circulation and reading the 少年行 poems alongside personal translations and related poems.",
+    "href": "/notes/poetics/li-yi/",
+    "pdf": "/notes/poetics/li-yi.pdf",
+    "format": "HTML + PDF",
+    "edition_date": "2026-10-29",
+    "status": "public",
+    "access_verified": true,
+    "hosting": "site"
+  }
+]

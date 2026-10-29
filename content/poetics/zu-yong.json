@@ -1,0 +1,278 @@
+{
+  "id": "zu-yong",
+  "title": "祖詠 / Zu Yong",
+  "abstract": "A handout on 祖詠, comparing anthology texts, Kroll’s translation, biographical accounts, and critical commentary.",
+  "author": "Green Wang",
+  "course": "CHINESE 230",
+  "edition_date": "2026-10-29",
+  "blocks": [
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "祖詠",
+      "html": "祖詠"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "Chinese 230, Green Wang",
+      "html": "Chinese 230, Green Wang"
+    },
+    {
+      "group": 0,
+      "kind": "h2",
+      "text": "詩人小傳",
+      "html": "詩人小傳"
+    },
+    {
+      "group": 0,
+      "kind": "p",
+      "text": "詠，洛陽人。開元十二年杜綰榜進士。有文名，殷璠評其詩：「翦刻省靜，用思尤苦，氣雖不高，調頗淩俗，足稱為才子也。」少與王維為吟侶，維在濟州，寓官舍，贈祖三詩，有雲：「結交二十載，不得一日展。貧病子既深，契闊餘不淺。」蓋亦流落不偶，極可傷也。後移家歸汝墳間別業，以漁樵自終。有詩一卷，傳於世。《唐才子傳》(辛文房, 1304) ",
+      "html": "詠，洛陽人。開元十二年杜綰榜進士。有文名，殷璠評其詩：「翦刻省靜，用思尤苦，氣雖不高，調頗淩俗，足稱為才子也。」少與王維為吟侶，維在濟州，寓官舍，贈祖三詩，有雲：「結交二十載，不得一日展。貧病子既深，契闊餘不淺。」蓋亦流落不偶，極可傷也。後移家歸汝墳間別業，以漁樵自終。有詩一卷，傳於世。《唐才子傳》(辛文房, 1304) "
+    },
+    {
+      "group": 1,
+      "kind": "h2",
+      "text": "殷璠’s Preface",
+      "html": "殷璠’s Preface"
+    },
+    {
+      "group": 1,
+      "kind": "p",
+      "text": "詠詩剪刻省浄，用思尤苦；氣雖不高，調頗淩俗。至如「霽日園林好，清明煙火新」，亦可稱為才子也。",
+      "html": "詠詩剪刻省浄，用思尤苦；氣雖不高，調頗淩俗。至如「霽日園林好，清明煙火新」，亦可稱為才子也。"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "《河岳英靈集》- 遊蘇氏別業 or",
+      "html": "《河岳英靈集》- 遊蘇氏別業 or"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "《國秀集》- 薊門別業",
+      "html": "《國秀集》- 薊門別業"
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "別業居幽處，到來生隱心。 ",
+      "html": "別業居<sup><a href=\"#fn-1\" id=\"ref-1\">1</a></sup>幽處，到來生隱心。 "
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "南山當戶牖，灃水暎園林。 ",
+      "html": "南山當戶牖，灃<sup><a href=\"#fn-2\" id=\"ref-2\">2</a></sup>水暎<sup><a href=\"#fn-3\" id=\"ref-3\">3</a></sup>園林。 "
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "竹覆經冬雪，庭昏未夕陰。 ",
+      "html": "竹覆經冬雪，庭昏未夕陰。 "
+    },
+    {
+      "group": 3,
+      "kind": "p",
+      "text": "寥寥人境外，閒坐聽春禽。",
+      "html": "寥寥人境外，閒坐聽春禽。"
+    },
+    {
+      "group": 7,
+      "kind": "h2",
+      "text": "Kroll’s Translation",
+      "html": "Kroll’s Translation"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Visiting Mr. Su’s Country Seat",
+      "html": "Visiting Mr. Su’s Country Seat"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Your country seat is indeed a sublime tucked-away place,",
+      "html": "Your country seat is indeed a sublime tucked-away place,"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Coming to it gives rise to a heart of seclusion.",
+      "html": "Coming to it gives rise to a heart of seclusion."
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "The South Mountains stand in front of door and windows,",
+      "html": "The South Mountains stand in front of door and windows,"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "And the River Li glints amid the garden and grove.",
+      "html": "And the River Li glints amid the garden and grove."
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Bamboo still is topped with snow from the past winter,",
+      "html": "Bamboo still is topped with snow from the past winter,"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Twilight in the courtyard is not shaded in the evening.",
+      "html": "Twilight in the courtyard is not shaded in the evening."
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "Set apart and undisturbed, beyond the precincts of men,",
+      "html": "Set apart and undisturbed, beyond the precincts of men,"
+    },
+    {
+      "group": 7,
+      "kind": "p",
+      "text": "We sit at ease, idly listening to springtime’s birds.",
+      "html": "We sit at ease, idly listening to springtime’s birds."
+    },
+    {
+      "group": 9,
+      "kind": "h2",
+      "text": "Comments",
+      "html": "Comments"
+    },
+    {
+      "group": 9,
+      "kind": "p",
+      "text": "齊梁調詩。張謂《題故人別業》詩曰（五言）：“平子歸田處，園林接汝墳。落花開戶入，啼鳥隔窗聞。池淨流春水，山明斂霽雲。畫遊仍不厭，乘月夜尋君。” （王昌齡）",
+      "html": "齊梁調詩。張謂《題故人別業》詩曰（五言）：“平子歸田處，園林接汝墳。落花開戶入，啼鳥隔窗聞。池淨流春水，山明斂霽雲。畫遊仍不厭，乘月夜尋君。” （王昌齡）"
+    },
+    {
+      "group": 10,
+      "kind": "p",
+      "text": "天寶末，劉希夷、王泠然、王昌齡、祖詠、張若虛、張子容、孟浩然、常建、李白、劉慎虛、崔署、杜甫，雖有文章盛名，皆流落不偶。《明皇雜錄》（鄭處誨, 855）",
+      "html": "天寶末，劉希夷、王泠然、王昌齡、祖詠、張若虛、張子容、孟浩然、常建、李白、劉慎虛、崔署、杜甫，雖有文章盛名，皆流落不偶。《明皇雜錄》（鄭處誨, 855）"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "有司試《終南山望餘雪詩》，詠賦雲：“終南陰嶺秀，積雪浮雲端。林表明霽色，城中增暮寒。”四句即納於有司。或詰之，詠曰：“意盡。”",
+      "html": "有司試《終南山望餘雪詩》，詠賦雲：“終南陰嶺秀，積雪浮雲端。林表明霽色，城中增暮寒。”四句即納於有司。或詰之，詠曰：“意盡。”"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "詠，登開元進士第。詠與維最善。 ",
+      "html": "詠，登開元進士第。詠與維最善。 "
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "說罷相，出翰仙州別駕。至郡日，聚英豪，從禽擊鼓，恣為歡賞，詠與杜華嘗在座。",
+      "html": "說罷相，出翰仙州別駕。至郡日，聚英豪，從禽擊鼓，恣為歡賞，詠與杜華嘗在座。"
+    },
+    {
+      "group": 11,
+      "kind": "p",
+      "text": "開元中，進士唱第尚書省，落第者至省門散去。詠吟曰：“落去他兩兩三三戴帽子，日暮祖候吟一聲，長安竹柏皆枯死。”《唐詩紀事》（計有功, 1224）",
+      "html": "開元中，進士唱第尚書省，落第者至省門散去。詠吟曰：“落去他兩兩三三戴帽子，日暮祖候吟一聲，長安竹柏皆枯死。”《唐詩紀事》（計有功, 1224）"
+    },
+    {
+      "group": 12,
+      "kind": "p",
+      "text": "“[姚合is] a self-conscious craftsman of verse, considered works of extreme perfection … Depictions of landscape or field-and-garden poetry make up the major ity of topics. This anthology contributed much to the reputations of the Dali era poets in literary history.” Yao He mixed王維，祖詠 with 大曆 poets (Oxford Handbook, p. 310)",
+      "html": "“[姚合is] a self-conscious craftsman of verse, considered works of extreme perfection … Depictions of landscape or field-and-garden poetry make up the major ity of topics. This anthology contributed much to the reputations of the Dali era poets in literary history.” Yao He mixed王維，祖詠 with 大曆 poets (Oxford Handbook, p. 310)"
+    },
+    {
+      "group": 13,
+      "kind": "p",
+      "text": "“Meaning is not discovered by a metaphorical operation in which the words of the text point to Something Else. Instead, the empirical world signifies for the poet, and the poem makes that event manifest.”(Omen of the World, p. 34)",
+      "html": "“Meaning is not discovered by a metaphorical operation in which the words of the text point to Something Else. Instead, the empirical world signifies for the poet, and the poem makes that event manifest.”(Omen of the World, p. 34)"
+    },
+    {
+      "group": 13,
+      "kind": "p",
+      "text": "一葉且或迎意，蟲聲有足引心。《文心雕龍·物色》",
+      "html": "一葉且或迎意，蟲聲有足引心。《文心雕龍·物色》"
+    },
+    {
+      "group": 14,
+      "kind": "h2",
+      "text": "Selected Poems in Anthologies",
+      "html": "Selected Poems in Anthologies"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "《河岳英靈集》",
+      "html": "《河岳英靈集》"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "古意",
+      "html": "古意"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "遊蘇氏別業",
+      "html": "遊蘇氏別業"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "清明宴司勲劉郎中別業",
+      "html": "清明宴司勲劉郎中別業"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "宿陳留李少府廳作",
+      "html": "宿陳留李少府廳作"
+    },
+    {
+      "group": 15,
+      "kind": "p",
+      "text": "終南望餘雪作",
+      "html": "終南望餘雪作"
+    },
+    {
+      "group": 16,
+      "kind": "p",
+      "text": "《國秀集》",
+      "html": "《國秀集》"
+    },
+    {
+      "group": 16,
+      "kind": "p",
+      "text": "薊門別業",
+      "html": "薊門別業"
+    },
+    {
+      "group": 16,
+      "kind": "p",
+      "text": "望薊門",
+      "html": "望薊門"
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "國秀集作“在”"
+    },
+    {
+      "id": "2",
+      "text": "Kroll’s edition 作“澧”"
+    },
+    {
+      "id": "3",
+      "text": "國秀集作“在”"
+    }
+  ],
+  "editorial_note": "完整保留原講義的段落次序、詩文、分析、譯文、引文及腳注；中文統一為繁體。原稿中的存疑字句、異文與簡略出處保留，未擅自補訂。",
+  "attribution_note": "「My Translation」及李嶷篇未另署名的英譯為作者原稿譯文；標為 Kroll 的譯文及其他署名引文保留原有歸屬。第三方引文與附圖不在本站原創內容授權範圍內。"
+}
