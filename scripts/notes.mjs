@@ -2,7 +2,7 @@
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
 
 export function notesPages(categories, editions) {
-  const entries = editions.filter(n => n.status === 'public' && n.access_verified);
+  const entries = editions.filter(n => ['public', 'catalog'].includes(n.status) && n.access_verified);
   const groups = categories.map(category => ({
     ...category,
     entries: entries.filter(n => (n.categoryId || n.category) === category.id || (!n.categoryId && n.category === category.title)),
@@ -16,16 +16,16 @@ export function notesPages(categories, editions) {
   for (const zh of [false, true]) {
     const root = zh ? '/zh/notes/' : '/notes/';
     const title = zh ? '阅读笔记' : 'Reading Notes';
-    const all = zh ? '全部公开笔记' : 'All public notes';
+    const all = zh ? '全部笔记' : 'All reading notes';
     const topics = zh ? '按主题浏览' : 'Browse by subject';
     const intro = zh ? '政治经济、历史、文学与数学中的阅读与学习记录。' : 'Reading and study notes across political economy, history, literature, and mathematics.';
     const status = zh ? '公开阅读版正在整理中' : 'Reading editions in preparation';
-    const scope = zh ? '笔记按主题归类；课程与资料类型见各篇说明。公开阅读版保留完整笔记及来源，提供完整正文与阅读档。' : 'Organized by subject, with course context and document type noted in each edition. Public editions preserve the full notes and their sources with full text and reading files available from the catalog.';
+    const scope = zh ? '笔记按主题归类，各条目提供完整阅读档；集合条目列出所含各篇笔记。Drive 阅读档目前需登录访问。' : 'Organized by subject. Each entry links to a complete reading file; collections include the individual readings listed below. Drive reading files currently require sign-in.';
     const label = group => zh ? group.titleZh : group.title;
     const description = group => zh ? group.descriptionZh : group.description;
-    const count = n => zh ? `${n} 篇公开笔记` : `${n} public ${n === 1 ? 'note' : 'notes'}`;
+    const count = n => zh ? `${n} 个阅读条目` : `${n} reading ${n === 1 ? 'entry' : 'entries'}`;
     const empty = () => `<div class="notes-empty"><h2>${status}</h2><p>${zh ? '完整笔记将在内容与排版核对后加入目录。' : 'Full notes will be added to the catalog after content and layout review.'}</p></div>`;
-    const card = note => `<article class="research-note"><p class="note-meta">${esc(note.type)} · ${esc(note.language)} · ${esc(note.format || "PDF")}</p><h2><a href="${esc(note.href)}">${esc(note.title)}</a></h2><p class="note-abstract">${esc(note.abstract)}</p><p class="note-meta note-edition">${zh ? '阅读版' : 'Reading edition'} · ${esc(note.edition_date)} · <a href="${esc(note.href)}">${note.hosting === 'site' ? (zh ? '阅读全文' : 'Read full note') : (zh ? '在 Google Drive 阅读' : 'Read in Google Drive')} ↗</a>${note.original ? ` · <a href="${esc(note.original)}" download>${zh ? '原始 DOCX' : 'Original DOCX'} ↓</a>` : ''}</p></article>`;
+    const card = note => `<article class="research-note"><p class="note-meta">${esc(note.type)} · ${esc(note.language)} · ${esc(note.format || "PDF")}</p><h2><a href="${esc(note.href)}">${esc(note.title)}</a></h2><p class="note-abstract">${esc(note.abstract)}</p><p class="note-meta note-edition">${zh ? '阅读版' : 'Reading edition'} · ${esc(note.edition_date)} · <a href="${esc(note.href)}">${note.hosting === 'site' ? (zh ? '阅读全文' : 'Read full note') : (zh ? '在 Google Drive 阅读' : 'Read in Google Drive')} ↗</a>${note.original ? ` · <a href="${esc(note.original)}" download>${zh ? '原始 DOCX' : 'Original DOCX'} ↓</a>` : ''}</p>${note.contents?.length ? `<details><summary>${zh ? "所含笔记" : "Included readings"} (${note.contents.length})</summary><ul>${note.contents.map(item => `<li>${esc(item.title)}</li>`).join('')}</ul></details>` : ''}</article>`;
     const list = group => group.entries.length ? `<ul class="notes-list">${group.entries.map(note => `<li><a href="${esc(note.href)}">${esc(note.title)}</a><span>${esc(note.type)} · ${esc(note.language)} · ${esc(note.format || "PDF")}</span></li>`).join('')}</ul>` : `<p class="notes-preparing">${status}</p>`;
     const mdList = group => group.entries.length ? group.entries.map(note => `- [${note.title}](${note.href}) — ${note.type}, ${note.language}, ${note.format || "PDF"}\n  ${note.abstract}`).join('\n') : status;
     const navigation = current => `<nav class="notes-navigation" aria-label="${zh ? '笔记目录' : 'Notes catalog'}"><a href="${root}"${current === 'topics' ? ' aria-current="page"' : ''}>${topics}</a><a href="${root}all/"${current === 'all' ? ' aria-current="page"' : ''}>${all}</a></nav>`;

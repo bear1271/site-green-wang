@@ -1,5 +1,596 @@
 [
   {
+    "id": "reading-14KJGLXrj2k0xQmbHaSC60Lwb7P5nnlYs",
+    "title": "War Finance and State Formation",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Fiscal Connection — Detailed Notes · The Sinews of Power · Chapters 2–4 — Detailed Notes · Dissecting the Sinews of Power — Detailed Notes.",
+    "href": "https://drive.google.com/file/d/1phUnZL4mcDMfj-iDtU7EBLbfiqQAVR3B/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Fiscal Connection — Detailed Notes"
+      },
+      {
+        "title": "The Sinews of Power · Chapters 2–4 — Detailed Notes"
+      },
+      {
+        "title": "Dissecting the Sinews of Power — Detailed Notes"
+      }
+    ]
+  },
+  {
+    "id": "reading-1EgYWS2HfJEuJlH1x4pJqH8lFyM4ipoKm",
+    "title": "War and Industrial Mobilization",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "From Financing War to Producing War — Notes · Connections · Papers & Arguments — Notes · Related Readings · Archive — Notes and further readings.",
+    "href": "https://drive.google.com/file/d/16MLSq57PJgFZztdkzin5oPJhxYbtyGkS/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "From Financing War to Producing War — Notes"
+      },
+      {
+        "title": "Connections · Papers & Arguments — Notes"
+      },
+      {
+        "title": "Related Readings · Archive — Notes"
+      },
+      {
+        "title": "Field · Earlier list · Ch. 1 — Notes"
+      },
+      {
+        "title": "Field · Chapter 6 — Notes"
+      },
+      {
+        "title": "Garin–Rothbaum · Public Plants — Notes"
+      },
+      {
+        "title": "Gordon · Additional · Ch. 16 — Notes"
+      },
+      {
+        "title": "Ilzetzki · Learning by Necessity — Notes"
+      },
+      {
+        "title": "Jaworski · Southern Big Push — Notes"
+      },
+      {
+        "title": "Nef · Earlier list — Notes"
+      },
+      {
+        "title": "Wilson · Chapter 2 — Notes"
+      }
+    ]
+  },
+  {
+    "id": "reading-1Z4vsy0zSr2Bn4ZlDfkoUYLMLwRu9f_yV",
+    "title": "Trade and Industrialization",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Habakkuk & Deane (1963) · ‘The Take-Off in Britain’ — Reading Note · Inikori · Africans and the Industrial Revolution in England · Chapters 2–3 — Reading Note.",
+    "href": "https://drive.google.com/file/d/1SrYHjyR4qaLu91vRMOyYpwjTsc6vIVqk/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Habakkuk & Deane (1963) · ‘The Take-Off in Britain’ — Reading Note"
+      },
+      {
+        "title": "Inikori · Africans and the Industrial Revolution in England · Chapters 2–3 — Reading Note"
+      }
+    ]
+  },
+  {
+    "id": "reading-114BDJArKkgHahvdVhBAx6BxOdmUvov4h",
+    "title": "Trade, Warfare, and State Formation",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Findlay and O'Rourke, Power and Plenty (2007) — Chapter 5 · Charles Tilly, Coercion, Capital, and European States — Chapters 2 and 3.",
+    "href": "https://drive.google.com/file/d/1vMWIdEeJ5gSRW6zSlNbcipThY8YncNpq/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Findlay and O'Rourke, Power and Plenty (2007) — Chapter 5"
+      },
+      {
+        "title": "Charles Tilly, Coercion, Capital, and European States — Chapters 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "reading-1GMITPyyWwFEPjQEQPjHqh1k3J8cxmmGe",
+    "title": "Industrialization and Technological Change",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "The Second Industrial Revolution — Notes · Chandler (1992) — Notes · Creanza (2026) — Notes and further readings.",
+    "href": "https://drive.google.com/file/d/1s1riyCXkNe2RS5Aqs8gabWvtsxeVudFa/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "The Second Industrial Revolution — Notes"
+      },
+      {
+        "title": "Chandler (1992) — Notes"
+      },
+      {
+        "title": "Creanza (2026) — Notes"
+      },
+      {
+        "title": "Gerschenkron (1962) · Ch. 1 — Notes"
+      },
+      {
+        "title": "Glaeser–Shleifer (2003) — Notes"
+      },
+      {
+        "title": "Mokyr (1998) — Notes"
+      },
+      {
+        "title": "Moser–Voena (2012) — Notes"
+      }
+    ]
+  },
+  {
+    "id": "reading-1I5FD81lmwJkLwjK-3NhdK7eXHQ3iyVcU",
+    "title": "Economic History Literature Map",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Economic History · Literature Atlas.",
+    "href": "https://drive.google.com/file/d/1rRNT4Jwj9TLWiZidCBF3j4s7a00NCKvW/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Economic History · Literature Atlas"
+      }
+    ]
+  },
+  {
+    "id": "reading-1Zhjnoj9NyB_RuUYTQFKKKDUJisf82n10",
+    "title": "Coercion and Capitalist Development",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Reading Notes - Coercion Connection · Beckert (2014), Empire of Cotton, Chapters 1-6 - Detailed Notes · Olmstead & Rhode (2018) - Detailed Notes.",
+    "href": "https://drive.google.com/file/d/1hSpgL_145hABlIvXmPkgEeTPqH8spDWA/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Reading Notes - Coercion Connection"
+      },
+      {
+        "title": "Beckert (2014), Empire of Cotton, Chapters 1-6 - Detailed Notes"
+      },
+      {
+        "title": "Olmstead & Rhode (2018) - Detailed Notes"
+      }
+    ]
+  },
+  {
+    "id": "reading-1_oQI903omLbUqO5I5SYqDNvh1Q-y3quP",
+    "title": "British Imperialism",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Was the British Empire economically worthwhile? And if so, for whom? — Reading Notes · Cain and Hopkins (1987): Gentlemanly Capitalism and British Expansion Overseas II — Reading Notes · Davis and Huttenback: Mammon and the Pursuit of Empire — Chapters 1 and 10 — Reading Notes and further readings.",
+    "href": "https://drive.google.com/file/d/1vyuo0K8ntrMxQrg1idInSpOgEC85hNg_/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Was the British Empire economically worthwhile? And if so, for whom? — Reading Notes"
+      },
+      {
+        "title": "Cain and Hopkins (1987): Gentlemanly Capitalism and British Expansion Overseas II — Reading Notes"
+      },
+      {
+        "title": "Davis and Huttenback: Mammon and the Pursuit of Empire — Chapters 1 and 10 — Reading Notes"
+      },
+      {
+        "title": "Davis and Huttenback: Empire, the Special Interests, and the House of Commons — Reading Notes"
+      },
+      {
+        "title": "Jacks, O'Rourke, Taylor and Yotov: Distance, Empire, and British Exports Over Two Centuries — Reading Notes"
+      },
+      {
+        "title": "Offer (1993): The British Empire, 1870–1914: A Waste of Money? — Reading Notes"
+      },
+      {
+        "title": "Xu (2018): The Costs of Patronage — Reading Notes"
+      }
+    ]
+  },
+  {
+    "id": "reading-1DeqRA0AjouBDzfVgXoE16x2oyLxGdGvq",
+    "title": "Bargaining and the Inefficient Use of Power",
+    "type": "Presentation on Powell (2004)",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Powell (2004) · Seminar presentation.",
+    "href": "https://drive.google.com/file/d/1OnyJ5JsrFhPFjO06vm1mZoTQ4a7OYeua/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Powell (2004) · Seminar presentation"
+      }
+    ]
+  },
+  {
+    "id": "reading-1oD6F-RPYzPnIl4jQQVTVy1Q9SCqMDbgY",
+    "title": "Signaling, Media, and Reputation",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Fearon 1997 · Signaling Foreign Policy Interests — Reading Note · Gentzkow & Shapiro 2006 · Media Bias and Reputation — Reading Note.",
+    "href": "https://drive.google.com/file/d/1bz3e5IHnJeYfb4ReMMbx8yB4L72YEP0L/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Fearon 1997 · Signaling Foreign Policy Interests — Reading Note"
+      },
+      {
+        "title": "Gentzkow & Shapiro 2006 · Media Bias and Reputation — Reading Note"
+      }
+    ]
+  },
+  {
+    "id": "reading-1EGVU9k3eGpdl_NFMBHntPiygO3MrYWZ3",
+    "title": "Signaling and Information",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Cho & Kreps 1987 · Signaling Games and Stable Equilibria — Reading Note · Gibbons Ch.4 · Dynamic Games of Incomplete Information — Reading Note.",
+    "href": "https://drive.google.com/file/d/1dSZmfd7YLPPIJ97ibxKWuLpDeNYW7D0x/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Cho & Kreps 1987 · Signaling Games and Stable Equilibria — Reading Note"
+      },
+      {
+        "title": "Gibbons Ch.4 · Dynamic Games of Incomplete Information — Reading Note"
+      }
+    ]
+  },
+  {
+    "id": "reading-19FpuqrKAEEo2OM90dIMMmbDRzJuEqTSl",
+    "title": "Selectorate Theory and Imperial Institutions",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "A Model of the Selectorate Theory · Building a New Imperial State: The Strategic Foundations of Separation of Powers in America · More MPE Applications.",
+    "href": "https://drive.google.com/file/d/15fns87x9IFYautk3McLZCkcndgbzDgB7/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "A Model of the Selectorate Theory"
+      },
+      {
+        "title": "Building a New Imperial State: The Strategic Foundations of Separation of Powers in America"
+      },
+      {
+        "title": "More MPE Applications"
+      }
+    ]
+  },
+  {
+    "id": "reading-102jfcev6KeNgeF9Kohx3PeansfC-sbaI",
+    "title": "Reputation and Political Leadership",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Ashworth 2005 · Reputational Dynamics · Canes-Wrone et al. 2001 · Leadership and Pandering.",
+    "href": "https://drive.google.com/file/d/1G6S0G2N4wD977EwJt4HLl1nfr88wPOYJ/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Ashworth 2005 · Reputational Dynamics"
+      },
+      {
+        "title": "Canes-Wrone et al. 2001 · Leadership and Pandering"
+      }
+    ]
+  },
+  {
+    "id": "reading-1RWE02kG1M7CCVXomcGRE03wAr2_xIP5U",
+    "title": "Political Agency",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Gehlbach, Political Agency (Ch. 7) — Detailed Reading Note.",
+    "href": "https://drive.google.com/file/d/1br97-h3VVlUThd1ToFYfeYK5qqsbOR4Y/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Gehlbach, Political Agency (Ch. 7) — Detailed Reading Note"
+      }
+    ]
+  },
+  {
+    "id": "reading-1OyL2Cav5LovCiMnBjaJqYzcQMKr5qKjT",
+    "title": "Dynamic Games of Conflict and Revolution",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Intro to Dynamic Games · A Review of Dynamic Games · Markov Games, Commitment, and Revolution.",
+    "href": "https://drive.google.com/file/d/1AUEAyTsDK75jMlQmZyQ1jl7r0cfHI9sO/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Intro to Dynamic Games"
+      },
+      {
+        "title": "A Review of Dynamic Games"
+      },
+      {
+        "title": "Markov Games, Commitment, and Revolution"
+      }
+    ]
+  },
+  {
+    "id": "reading-148cQEcIjTRumG4gSohv0gPt1qTJIP3d-",
+    "title": "Commitment and Institutions",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "formal-political-economy",
+    "abstract": "Building a New Imperial State: The Strategic Foundations of Separation of Powers in America · Commitment and Institutions · Stronger Challengers Can Cause More (or Less) Conflict and Institutional Reform and further readings.",
+    "href": "https://drive.google.com/file/d/1RuqmqLVEP3yScUcQjhH_shb81fEU-CYr/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Building a New Imperial State: The Strategic Foundations of Separation of Powers in America"
+      },
+      {
+        "title": "Commitment and Institutions"
+      },
+      {
+        "title": "Stronger Challengers Can Cause More (or Less) Conflict and Institutional Reform"
+      },
+      {
+        "title": "The Inefficient Use of Power: Costly Conflict with Complete Information"
+      },
+      {
+        "title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective"
+      }
+    ]
+  },
+  {
+    "id": "reading-1gltH6VMz0CWD0cPlP1yPXAmK9bneufSb",
+    "title": "Real Analysis — Real Numbers and Completeness",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "methods-mathematical-foundations",
+    "abstract": "Real Numbers, Ordered Fields, and Completeness.",
+    "href": "https://drive.google.com/file/d/1jLcNB_TKToS2IDfguXjCVOvtDOub7miL/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Real Numbers, Ordered Fields, and Completeness"
+      }
+    ]
+  },
+  {
+    "id": "reading-1UwTDu4bHwqStgJ3FM9XmfN8w1CaKt71h",
+    "title": "Real Analysis — Foundations and Proof Techniques",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "methods-mathematical-foundations",
+    "abstract": "Thematic Guides.",
+    "href": "https://drive.google.com/file/d/1oW6-S3Bb1XFaTKcnH2HdwMVBasWWvTF6/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Thematic Guides"
+      }
+    ]
+  },
+  {
+    "id": "reading-17RiWpS-DErNsApw3VcIQHZgI8rhO-8kk",
+    "title": "Real Analysis — Concepts and Results",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "methods-mathematical-foundations",
+    "abstract": "Knowledge Map.",
+    "href": "https://drive.google.com/file/d/1Fa95l87EJxk9AjYguaaI21Gx-6uMiuQF/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Knowledge Map"
+      }
+    ]
+  },
+  {
+    "id": "reading-10cBStKBR98SBUJCZBPT6OFqtf7ZeRHiH",
+    "title": "Probability and Statistical Inference",
+    "type": "Reading collection",
+    "language": "English",
+    "categoryId": "methods-mathematical-foundations",
+    "abstract": "Probability & Statistical Inference · Overall Concepts List · Probability Distributions and further readings.",
+    "href": "https://drive.google.com/file/d/185LR2ffoazfZsIUovJtlhp4wlE5ibXdn/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Probability & Statistical Inference"
+      },
+      {
+        "title": "Overall Concepts List"
+      },
+      {
+        "title": "Probability Distributions"
+      },
+      {
+        "title": "Expectation, Moments & Shape"
+      },
+      {
+        "title": "Conditional Information & Prediction"
+      },
+      {
+        "title": "Dependence & Covariance Algebra"
+      },
+      {
+        "title": "Normal, χ², t & F"
+      },
+      {
+        "title": "Sampling, LLN & CLT"
+      },
+      {
+        "title": "Estimators & Least Squares"
+      },
+      {
+        "title": "Variance Estimation & Standard Errors"
+      },
+      {
+        "title": "Tests & Confidence Intervals"
+      },
+      {
+        "title": "Comparisons & Causal Effects"
+      },
+      {
+        "title": "Small Samples & Student t"
+      },
+      {
+        "title": "Correlation → Regression"
+      },
+      {
+        "title": "Bootstrap & Paper Connections"
+      },
+      {
+        "title": "Integrated Exercises & Solutions"
+      },
+      {
+        "title": "Empirical Workflows"
+      },
+      {
+        "title": "Notation & Formula Reference"
+      },
+      {
+        "title": "Sources & Coverage Map"
+      }
+    ]
+  },
+  {
+    "id": "reading-1xIJZPrbU7kKk-5MGEe1G_y6PNV_HmybA",
+    "title": "Williams — Capitalism and Slavery — Complete Reading Note",
+    "type": "Reading note",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "Eric Williams, *Capitalism and Slavery*: a reading through interests and institutions.",
+    "href": "https://drive.google.com/file/d/18MLsIXMAjVXZoUCB0AKFJVi9MD2geg39/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private",
+    "contents": [
+      {
+        "title": "Eric Williams, *Capitalism and Slavery*: a reading through interests and institutions"
+      }
+    ]
+  },
+  {
     "id": "guoxiu-ji",
     "title": "《國秀集》 / The Guoxiu Ji",
     "type": "Seminar handout",
@@ -62,5 +653,20 @@
     "access_verified": true,
     "hosting": "site",
     "original": "/notes/poetics/li-yi.docx"
+  },
+  {
+    "id": "tilly-state-making-presentation",
+    "title": "Coercion, Capital, and the Making of European States",
+    "type": "Presentation on Tilly, Chapters 2–3",
+    "language": "English",
+    "categoryId": "political-economy-history",
+    "abstract": "A ten-slide presentation by Green Wang on Charles Tilly’s account of coercion, capital, and European state formation.",
+    "href": "https://drive.google.com/file/d/1_sqK-qfOp7q2lmCEqED7nhopoZV5l2sy/view?usp=drivesdk",
+    "format": "PDF",
+    "edition_date": "2026-10-29",
+    "status": "catalog",
+    "access_verified": true,
+    "hosting": "drive",
+    "access": "private"
   }
 ]
