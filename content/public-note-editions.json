@@ -12,7 +12,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Fiscal Connection — Detailed Notes"
@@ -23,7 +23,8 @@
       {
         "title": "Dissecting the Sinews of Power — Detailed Notes"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1EgYWS2HfJEuJlH1x4pJqH8lFyM4ipoKm",
@@ -38,7 +39,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "From Financing War to Producing War — Notes"
@@ -73,7 +74,8 @@
       {
         "title": "Wilson · Chapter 2 — Notes"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1Z4vsy0zSr2Bn4ZlDfkoUYLMLwRu9f_yV",
@@ -88,7 +90,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Habakkuk & Deane (1963) · ‘The Take-Off in Britain’ — Reading Note"
@@ -96,7 +98,8 @@
       {
         "title": "Inikori · Africans and the Industrial Revolution in England · Chapters 2–3 — Reading Note"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-114BDJArKkgHahvdVhBAx6BxOdmUvov4h",
@@ -111,7 +114,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Findlay and O'Rourke, Power and Plenty (2007) — Chapter 5"
@@ -119,7 +122,8 @@
       {
         "title": "Charles Tilly, Coercion, Capital, and European States — Chapters 2 and 3"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1GMITPyyWwFEPjQEQPjHqh1k3J8cxmmGe",
@@ -134,7 +138,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "The Second Industrial Revolution — Notes"
@@ -157,7 +161,8 @@
       {
         "title": "Moser–Voena (2012) — Notes"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1I5FD81lmwJkLwjK-3NhdK7eXHQ3iyVcU",
@@ -172,12 +177,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Economic History · Literature Atlas"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1Zhjnoj9NyB_RuUYTQFKKKDUJisf82n10",
@@ -192,7 +198,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Reading Notes - Coercion Connection"
@@ -203,7 +209,8 @@
       {
         "title": "Olmstead & Rhode (2018) - Detailed Notes"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1_oQI903omLbUqO5I5SYqDNvh1Q-y3quP",
@@ -218,7 +225,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Was the British Empire economically worthwhile? And if so, for whom? — Reading Notes"
@@ -241,7 +248,8 @@
       {
         "title": "Xu (2018): The Costs of Patronage — Reading Notes"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1DeqRA0AjouBDzfVgXoE16x2oyLxGdGvq",
@@ -256,12 +264,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Powell (2004) · Seminar presentation"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1oD6F-RPYzPnIl4jQQVTVy1Q9SCqMDbgY",
@@ -276,7 +285,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Fearon 1997 · Signaling Foreign Policy Interests — Reading Note"
@@ -284,7 +293,8 @@
       {
         "title": "Gentzkow & Shapiro 2006 · Media Bias and Reputation — Reading Note"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1EGVU9k3eGpdl_NFMBHntPiygO3MrYWZ3",
@@ -299,7 +309,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Cho & Kreps 1987 · Signaling Games and Stable Equilibria — Reading Note"
@@ -307,7 +317,8 @@
       {
         "title": "Gibbons Ch.4 · Dynamic Games of Incomplete Information — Reading Note"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-19FpuqrKAEEo2OM90dIMMmbDRzJuEqTSl",
@@ -322,7 +333,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "A Model of the Selectorate Theory"
@@ -333,7 +344,8 @@
       {
         "title": "More MPE Applications"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-102jfcev6KeNgeF9Kohx3PeansfC-sbaI",
@@ -348,7 +360,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Ashworth 2005 · Reputational Dynamics"
@@ -356,7 +368,8 @@
       {
         "title": "Canes-Wrone et al. 2001 · Leadership and Pandering"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1RWE02kG1M7CCVXomcGRE03wAr2_xIP5U",
@@ -371,12 +384,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Gehlbach, Political Agency (Ch. 7) — Detailed Reading Note"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1OyL2Cav5LovCiMnBjaJqYzcQMKr5qKjT",
@@ -391,7 +405,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Intro to Dynamic Games"
@@ -402,7 +416,8 @@
       {
         "title": "Markov Games, Commitment, and Revolution"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-148cQEcIjTRumG4gSohv0gPt1qTJIP3d-",
@@ -417,7 +432,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Building a New Imperial State: The Strategic Foundations of Separation of Powers in America"
@@ -434,7 +449,8 @@
       {
         "title": "Why Did the West Extend the Franchise? Democracy, Inequality, and Growth in Historical Perspective"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1gltH6VMz0CWD0cPlP1yPXAmK9bneufSb",
@@ -449,12 +465,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Real Numbers, Ordered Fields, and Completeness"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1UwTDu4bHwqStgJ3FM9XmfN8w1CaKt71h",
@@ -469,12 +486,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Thematic Guides"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-17RiWpS-DErNsApw3VcIQHZgI8rhO-8kk",
@@ -489,12 +507,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Knowledge Map"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-10cBStKBR98SBUJCZBPT6OFqtf7ZeRHiH",
@@ -509,7 +528,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Probability & Statistical Inference"
@@ -568,7 +587,8 @@
       {
         "title": "Sources & Coverage Map"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "reading-1xIJZPrbU7kKk-5MGEe1G_y6PNV_HmybA",
@@ -583,12 +603,13 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private",
+    "access": "berkeley-domain",
     "contents": [
       {
         "title": "Eric Williams, *Capitalism and Slavery*: a reading through interests and institutions"
       }
-    ]
+    ],
+    "access_domain": "berkeley.edu"
   },
   {
     "id": "guoxiu-ji",
@@ -667,6 +688,7 @@
     "status": "catalog",
     "access_verified": true,
     "hosting": "drive",
-    "access": "private"
+    "access": "berkeley-domain",
+    "access_domain": "berkeley.edu"
   }
 ]

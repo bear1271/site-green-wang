@@ -20,7 +20,7 @@ export function notesPages(categories, editions) {
     const topics = zh ? '按主题浏览' : 'Browse by subject';
     const intro = zh ? '政治经济、历史、文学与数学中的阅读与学习记录。' : 'Reading and study notes across political economy, history, literature, and mathematics.';
     const status = zh ? '公开阅读版正在整理中' : 'Reading editions in preparation';
-    const scope = zh ? '笔记按主题归类，各条目提供完整阅读档；集合条目列出所含各篇笔记。Drive 阅读档目前需登录访问。' : 'Organized by subject. Each entry links to a complete reading file; collections include the individual readings listed below. Drive reading files currently require sign-in.';
+    const scope = zh ? '笔记按主题归类，各条目提供完整阅读档；集合条目列出所含各篇笔记。Drive 阅读档向持有链接的 berkeley.edu 账号开放查看。' : 'Organized by subject. Each entry links to a complete reading file; collections include the individual readings listed below. Drive reading files are available to berkeley.edu accounts with the link.';
     const label = group => zh ? group.titleZh : group.title;
     const description = group => zh ? group.descriptionZh : group.description;
     const count = n => zh ? `${n} 个阅读条目` : `${n} reading ${n === 1 ? 'entry' : 'entries'}`;
