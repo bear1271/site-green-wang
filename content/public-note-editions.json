@@ -12,7 +12,8 @@
     "edition_date": "2026-10-29",
     "status": "public",
     "access_verified": true,
-    "hosting": "site"
+    "hosting": "site",
+    "original": "/notes/poetics/guoxiu-ji.docx"
   },
   {
     "id": "wang-changling",
@@ -27,7 +28,8 @@
     "edition_date": "2026-10-29",
     "status": "public",
     "access_verified": true,
-    "hosting": "site"
+    "hosting": "site",
+    "original": "/notes/poetics/wang-changling.docx"
   },
   {
     "id": "zu-yong",
@@ -42,7 +44,8 @@
     "edition_date": "2026-10-29",
     "status": "public",
     "access_verified": true,
-    "hosting": "site"
+    "hosting": "site",
+    "original": "/notes/poetics/zu-yong.docx"
   },
   {
     "id": "li-yi",
@@ -57,6 +60,7 @@
     "edition_date": "2026-10-29",
     "status": "public",
     "access_verified": true,
-    "hosting": "site"
+    "hosting": "site",
+    "original": "/notes/poetics/li-yi.docx"
   }
 ]
