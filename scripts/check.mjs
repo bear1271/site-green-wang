@@ -14,9 +14,34 @@ for (const route of ["", "research", "notes", "live", "about", "for-agents"]) {
   assert(en.includes('lang="en"') && zh.includes('lang="zh-CN"'), `Bilingual language mismatch: ${route}`);
   assert(en.includes('class="language-switch"') && zh.includes('class="language-switch"'), `Missing language switch: ${route}`);
 }
-for (const slug of ["economic-history", "formal-models", "inference", "real-analysis"]) {
-  await stat(path.join(out, "notes", "html", slug, "index.html"));
+for (const directory of ["html", "library"]) {
+  await assert.rejects(stat(path.join(out, "notes", directory)), {code:"ENOENT"}, "Unreviewed note sources must not be deployed");
 }
+const publicNotes = JSON.parse(await readFile(path.join(root, "content/public-note-editions.json"), "utf8"));
+const publicIndex = await readFile(path.join(out, "notes", "index.html"), "utf8");
+const noteCategories = JSON.parse(await readFile(path.join(root, "content/notes-categories.json"), "utf8"));
+const allNotesIndex = await readFile(path.join(out, "notes", "all", "index.html"), "utf8");
+for (const category of noteCategories) {
+  for (const prefix of ["", "zh/"]) {
+    const categoryPage = await readFile(path.join(out, prefix, "notes", category.id, "index.html"), "utf8");
+    assert(categoryPage.includes(`href="${basePath}/${prefix}notes/" aria-current="page"`), "Notes navigation must stay active on category pages");
+    assert(categoryPage.includes(`href="${basePath}/${prefix}notes/${category.id}/" aria-current="page"`), "Current subject must be marked");
+  }
+  assert(publicIndex.includes(`/notes/${category.id}/`), "Subject missing from Notes navigation");
+  assert(allNotesIndex.includes(`href="#${category.id}"`) && allNotesIndex.includes(`id="${category.id}"`), "Subject jump link has no destination");
+}
+for (const note of publicNotes.filter(n=>n.status === "public")) {
+  assert.equal(note.access_verified, true, "Unverified Drive note must not be published");
+  const destination = new URL(note.href);
+  assert.equal(destination.hostname, "drive.google.com");
+  assert.equal(destination.pathname, `/file/d/${note.drive_id}/view`);
+  assert(allNotesIndex.includes(note.drive_id), "Approved public reading edition missing from catalog");
+  const category = noteCategories.find(c => (note.categoryId || note.category) === c.id || (!note.categoryId && note.category === c.title));
+  assert(category, "Public reading edition needs a recognized subject");
+  const categoryPage = await readFile(path.join(out, "notes", category.id, "index.html"), "utf8");
+  assert(categoryPage.includes(note.drive_id), "Approved public reading edition missing from subject page");
+}
+assert(!/notes\/(?:library|html)\//.test(publicIndex), "Private archive linked from public index");
 assert.equal(profile.name, source.name);
 assert.deepEqual(profile.studies, source.studies);
 assert.equal(profile.bio, source.bio);

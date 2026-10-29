@@ -38,3 +38,9 @@ Then open <http://127.0.0.1:4173/>.
 The two Fall 2026 PhD-level course papers are planned and still in topic development. Their topics and mentors are not yet determined; abstracts are coming soon. Earlier research is labeled as coursework and is not presented as publication.
 
 Only public website content belongs in this repository. Do not add private CV sources, application records, internal notes, or personal identifiers.
+
+## Notes catalog
+
+`content/public-note-editions.json` lists reviewed, active public Drive destinations. Unreviewed HTML/library source directories are excluded from deployment.
+
+`content/notes-categories.json` defines the bilingual Notes subjects and their stable routes. `scripts/notes.mjs` renders the subject overview, complete catalog, and individual subject pages without client-side JavaScript. Public editions use a `categoryId` matching a subject's `id` (the existing English category title is also accepted). Empty subjects remain navigable and show that reading editions are in preparation; they do not expose archive files.

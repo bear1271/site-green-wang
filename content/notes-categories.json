@@ -1,0 +1,30 @@
+[
+  {
+    "id": "political-economy-history",
+    "title": "Political Economy & Economic History",
+    "titleZh": "政治经济与经济史",
+    "description": "Institutions, state formation, trade, coercion, and industrial development in historical perspective.",
+    "descriptionZh": "从历史视角阅读制度、国家形成、贸易、强制与工业发展。"
+  },
+  {
+    "id": "formal-political-economy",
+    "title": "Formal Political Economy",
+    "titleZh": "形式政治经济学",
+    "description": "Commitment, political agency, conflict, signaling, and beliefs through formal models.",
+    "descriptionZh": "通过形式模型理解承诺、政治代理、冲突、信号与信念。"
+  },
+  {
+    "id": "poetics-comparative-literature",
+    "title": "Poetics and Comparative Literature",
+    "titleZh": "诗学与比较文学",
+    "description": "Poetry, anthologies, interpretation, and comparative reading, including Chinese literary traditions.",
+    "descriptionZh": "围绕诗歌、选本、阐释与比较阅读展开，兼及中国文学传统。"
+  },
+  {
+    "id": "methods-mathematical-foundations",
+    "title": "Methods & Mathematical Foundations",
+    "titleZh": "方法与数学基础",
+    "description": "Probability, statistical inference, econometrics, and real analysis: concepts, results, and proof techniques.",
+    "descriptionZh": "概率、统计推断、计量经济学与实分析中的概念、结论和证明方法。"
+  }
+]

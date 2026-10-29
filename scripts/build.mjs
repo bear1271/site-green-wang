@@ -1,16 +1,13 @@
 import { readFile, writeFile, mkdir, cp, rm } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { notesPages } from "./notes.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const out = path.join(root, "dist");
 const p = JSON.parse(await readFile(path.join(root, "content/profile.json"), "utf8"));
-const mountedNotes = [
-  { course: "PHDBA 279PD", category: "Historical political economy", categoryZh: "历史政治经济学", title: "Empire of Cotton: coercion and production", titleZh: "《棉花帝国》：强制与生产", lead: "Detailed reading notes on Beckert, chapters 1–6, with an argument map and critical questions.", leadZh: "Beckert 第 1—6 章的完整阅读笔记，包括论证脉络与批判性问题。", href: "/notes/html/economic-history/" },
-  { course: "POLSCI 232B", category: "Formal political economy", categoryZh: "形式政治经济学", title: "Political Agency: selection and incentives", titleZh: "政治代理：选拔与激励", lead: "A detailed note on Gehlbach's Political Agency chapter, organized by model and mechanism.", leadZh: "Gehlbach《政治代理》章节的完整阅读笔记，按模型与机制展开。", href: "/notes/html/formal-models/" },
-  { course: "ECON 141", category: "Evidence and inference", categoryZh: "证据与推断", title: "Probability, inference, and causal comparison", titleZh: "概率、推断与因果比较", lead: "An HTML study guide moving from probability and conditioning to estimation, inference, and comparison.", leadZh: "从概率、条件化走向估计、推断与因果比较的 HTML 学习指南。", href: "/notes/html/inference/" },
-  { course: "MATH 104", category: "Mathematical foundations", categoryZh: "数学基础", title: "Real analysis knowledge map", titleZh: "实分析知识图谱", lead: "A connected map of definitions, results, and proof dependencies.", leadZh: "连接定义、结论与证明依赖关系的实分析知识图谱。", href: "/notes/html/real-analysis/" },
-];
+const publicNotes = JSON.parse(await readFile(path.join(root, "content/public-note-editions.json"), "utf8"));
+const notesCategories = JSON.parse(await readFile(path.join(root, "content/notes-categories.json"), "utf8"));
 const origin = (process.env.SITE_ORIGIN || "http://127.0.0.1:4173").replace(/\/$/, "");
 const basePath = (process.env.SITE_BASE || "").replace(/\/$/, "");
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
@@ -20,7 +17,8 @@ const dateLabel = "26 September 2026";
 const pages = [];
 await rm(out, { recursive: true, force: true });
 await mkdir(out, { recursive: true });
-await cp(path.join(root, "public"), out, { recursive: true });
+const privateNoteRoots = ["html", "library"].map(name => path.join(root, "public", "notes", name));
+await cp(path.join(root, "public"), out, { recursive: true, filter: source => !privateNoteRoots.some(dir => source === dir || source.startsWith(dir + path.sep)) });
 async function save(file, content) {
   const target = path.join(out, file);
   await mkdir(path.dirname(target), { recursive: true });
@@ -157,15 +155,9 @@ for (const x of p.projects) {
     }
   );
 }
-await page(
-  "/notes/",
-  "Notes",
-  "/notes/",
-  `
-<div class="page-head"><p class="eyebrow">Reading paths</p><h1>Notes <span class="notes-status">(developing)</span></h1><p class="lead">Historical institutions, formal models, evidence, and proof.</p></div><p class="research-intro">Selected HTML notes from my coursework, ordered by question and intellectual tradition. These are study materials, not publications.</p><div class="note-index">${mountedNotes.map((n, i) => `<article class="note-entry"><span class="question-number">0${i + 1}</span><div><p class="eyebrow">${esc(n.category)} · ${esc(n.course)}</p><h2><a href="${n.href}">${esc(n.title)} ↗</a></h2><p>${esc(n.lead)}</p></div></article>`).join("")}</div><section class="section"><h2>Current coursework</h2><p>Fall 2026: PHDBA 279PD, POLSCI 232B, ECON 141, and MATH 104. Each appears above at the point where it contributes to this reading path.</p></section><section class="section"><h2>Questions still in progress</h2><p>${esc(p.questions[1].question)}</p><p>${esc(p.workingHypothesis.question)}</p></section>`,
-  `# Notes\n\nA reading path through historical institutions, formal models, evidence, and mathematical foundations. Study notes and open questions, not publications.\n\n${mountedNotes.map((n, i) => `${i + 1}. [${n.title}](${n.href}) — ${n.course}: ${n.lead}`).join("\n")}\n\n## Current coursework\nPHDBA 279PD; POLSCI 232B; ECON 141; MATH 104.\n\n## Questions still in progress\n${p.questions[1].question}\n\n${p.workingHypothesis.question}`
-);
-
+for (const notePage of notesPages(notesCategories, publicNotes)) {
+  await page(notePage.route, notePage.title, notePage.active, notePage.body, notePage.md, notePage.description, notePage.lang);
+}
 
 await page(
   "/live/",
@@ -233,7 +225,6 @@ for (const x of p.projects) {
   await page(`/zh/research/${x.id}/`, title, "/zh/research/", `<div class="page-head cn"><a class="back" href="/zh/research/">← 研究</a><p class="eyebrow" style="margin-top:28px">${esc(x.period)} · 课程研究</p><h1>${title}</h1><p class="lead">${question}</p></div><article class="article cn"><p>2026 年春季课程研究。网站仅提供项目摘要，未提供论文全文。</p><p>课程：${esc(x.context)}。</p><div class="notice">课程研究，不列为学术发表。</div></article>`, `# ${title}\n\n${question}\n\n2026 年春季课程研究。仅提供摘要，不列为学术发表。`, question, "zh-CN");
 }
 
-await page("/zh/notes/", "笔记", "/zh/notes/", `<div class="page-head cn"><p class="eyebrow">阅读路径</p><h1>笔记 <span class="notes-status">(developing)</span></h1><p class="lead">从历史制度与形式模型出发，走向证据、推断和证明。</p></div><p class="research-intro cn">这里挂载此前制作的 HTML 笔记，按问题与思想传统排列，不按课程周次排列。这些是学习笔记，不是论文或研究结论。</p><div class="note-index cn">${mountedNotes.map((n, i) => `<article class="note-entry"><span class="question-number">0${i + 1}</span><div><p class="eyebrow">${esc(n.categoryZh)} · ${esc(n.course)}</p><h2><a href="${n.href}">${esc(n.titleZh)} ↗</a></h2><p>${esc(n.leadZh)}</p></div></article>`).join("")}</div><section class="section cn"><h2>今年的四门课</h2><p>PHDBA 279PD、POLSCI 232B、ECON 141 与 MATH 104 分别对应上面的历史、模型、证据与数学路径。以下是我整理的少量公开笔记。</p></section><section class="section cn"><h2>尚在形成的问题</h2><p>制度如何影响人们能观察到什么，以及如何归因共同工作的成果？</p><p>把不同形式的价值用货币表达，会不会改变人们重视的东西？</p></section>`, `# 笔记\n\n按思想线索排列的公开学习笔记。\n\n${mountedNotes.map((n, i) => `${i + 1}. [${n.titleZh}](${n.href}) — ${n.course}：${n.leadZh}`).join("\n")}\n\n## 尚在形成的问题\n制度如何影响人们对共同工作成果的归因？\n\n货币表达会不会改变人们重视的东西？`, "公开阅读笔记导览", "zh-CN");
 
 await page("/zh/live/", "近况", "/zh/live/", `<div class="page-head cn"><p class="eyebrow">一个正在形成的栏目</p><h1>近况</h1><p class="lead">记录阅读、学习，以及正在推进的工作。</p></div><article class="article cn"><p>内容尚在形成中。</p></article>`, `# 近况\n\n记录阅读、学习，以及正在推进的工作。内容尚在形成中。`, "近况栏目仍在形成中", "zh-CN");
 
