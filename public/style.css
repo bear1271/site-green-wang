@@ -178,7 +178,7 @@ nav a[aria-current="page"] {
   height: 180px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: 60% 50%;
+  object-position: 50% 30%;
 }
 .intro {
   font-size: 19px;
@@ -848,6 +848,24 @@ pre {
     border: 0;
     padding: 0;
   }
+}
+
+/* Retain the first framing's lower edge while extending the view upward. */
+.portrait,.about-portrait{
+  display:block;
+  width:180px;
+  height:180px;
+  overflow:hidden;
+  border-radius:50%;
+  background:#b4b6c2;
+}
+.portrait > img,.about-portrait > img{
+  display:block;
+  width:88.6%;
+  max-width:none;
+  height:auto;
+  margin:0 auto;
+  border-radius:0;
 }
 
 /* Annotated notes index */

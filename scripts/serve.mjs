@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = await realpath(path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "dist"));
 const port = Number(process.env.PORT || 4173);
 const types = {
+  ".png": "image/png",
   ".html": "text/html; charset=utf-8",
   ".css": "text/css; charset=utf-8",
   ".svg": "image/svg+xml",

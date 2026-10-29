@@ -1,0 +1,46 @@
+{
+  "en": {
+    "title": "Copyright & Licensing",
+    "intro": "Permissions for original content and website code.",
+    "sections": [
+      [
+        "Original content",
+        "Unless separately marked, original notes, commentary, prose, and explanatory diagrams authored by Green (Sirun) Wang are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Give appropriate credit, link to the source and license, and indicate changes. Attribution must not imply endorsement."
+      ],
+      [
+        "Website code",
+        "Original website implementation code is licensed under MIT. Retain the copyright and permission notices when reusing copies or substantial portions. Academic prose embedded in templates remains subject to the content license."
+      ],
+      [
+        "Excluded material",
+        "Personal photographs and portraits are not offered under an open license. Third-party quotations, figures, tables, papers, course handouts, institutional names and logos, fonts, libraries, and code are excluded from these grants. Their original rights and licenses, or applicable legal exceptions, govern their use. Inclusion here does not establish authorship or permission to redistribute. Public-domain material remains in the public domain."
+      ],
+      [
+        "Scope and corrections",
+        "These notes are working materials and may contain errors or be revised. They are not presented as peer-reviewed publications. This is a personal website; views expressed here do not represent UC Berkeley, Datong Society, or the Berkeley Political Economy Journal. For corrections or rights-related concerns, contact greenw@berkeley.edu."
+      ]
+    ]
+  },
+  "zh": {
+    "title": "版权与许可",
+    "intro": "原创内容与网站代码的使用范围。",
+    "sections": [
+      [
+        "原创内容",
+        "除另有标注外，Green (Sirun) Wang 拥有版权的原创笔记、评注、文字与说明图采用 CC BY 4.0 国际许可。使用时须适当署名、链接来源与许可，并注明修改；不得暗示作者为使用者或其用途背书。"
+      ],
+      [
+        "网站代码",
+        "原创网站实现代码采用 MIT 许可。再利用副本或实质性部分时须保留版权与许可声明。模板中包含的学术文字仍适用内容许可。"
+      ],
+      [
+        "排除范围",
+        "个人照片与头像不采用开放许可。第三方引文、图片、表格、论文、课程讲义、机构名称与标志、字体、库和代码不在上述授权范围内，应遵守其原有权利、许可或适用的法律例外。收录不意味着作者拥有版权或获准再分发。公有领域材料仍属于公有领域。"
+      ],
+      [
+        "材料性质与联系",
+        "笔记属于可能修订的工作材料，可能含有错误，不作为经过同行评审的出版物呈现。本站为个人网站，观点不代表 UC Berkeley、Datong Society 或 Berkeley Political Economy Journal。勘误或权利相关事宜请联系 greenw@berkeley.edu。"
+      ]
+    ]
+  }
+}

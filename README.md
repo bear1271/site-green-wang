@@ -39,8 +39,16 @@ The two Fall 2026 PhD-level course papers are planned and still in topic develop
 
 Only public website content belongs in this repository. Do not add private CV sources, application records, internal notes, or personal identifiers.
 
-## Notes catalog
+## Licensing
 
-`content/public-note-editions.json` lists reviewed, active public Drive destinations. Unreviewed HTML/library source directories are excluded from deployment.
+Original website implementation code (build/check/preview scripts, CV-generation code, and original CSS and client-side code) is licensed under [MIT](LICENSE-CODE). Academic prose embedded in templates is content, not implementation code.
+
+Original notes, prose, and diagrams authored by Green (Sirun) Wang are licensed under [CC BY 4.0](LICENSE-CONTENT.md). Personal photographs, portraits, institutional names/logos, and third-party materials are excluded. Third-party code, fonts, and libraries retain their own licenses and notices. Neither license grants rights to materials the site author does not own.
+
+## Notes editorial workflow
+
+Follow [NOTES_EDITORIAL.md](NOTES_EDITORIAL.md). Public reading editions must preserve the complete original notes rather than substitute abridged rewrites. English is the default; Chinese literary materials use Traditional Chinese with Chinese original names and appropriate English.
+
+`content/public-note-editions.json` lists only reviewed, active public Drive destinations. Withdrawn editions are removed from the manifest. Unreviewed HTML/library source directories are excluded from deployment. Local originals and publication review material remain under ignored `local/` storage.
 
 `content/notes-categories.json` defines the bilingual Notes subjects and their stable routes. `scripts/notes.mjs` renders the subject overview, complete catalog, and individual subject pages without client-side JavaScript. Public editions use a `categoryId` matching a subject's `id` (the existing English category title is also accepted). Empty subjects remain navigable and show that reading editions are in preparation; they do not expose archive files.
